@@ -1,0 +1,3075 @@
+﻿<process name="SENENGRY2" version="1.0" bpversion="6.10.0.30674" narrative="" byrefcollection="true" type="object" runmode="Exclusive" preferredid="3e804f4f-4f6d-4bbf-91ee-501f44745e56">
+  <appdef>
+    <element name="SENENGRY2">
+      <id>ecfb41c6-7141-4f61-8769-2daa397af898</id>
+      <element name="Login Root">
+        <id>80a625e5-0f81-401d-8104-121848db5646</id>
+        <element name="textUsername">
+          <id>580d2ccd-4c78-469d-a732-1f4c1c4c0edf</id>
+          <type>HTML</type>
+          <basetype>HTML</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="X">
+              <ProcessValue datatype="number" value="391" />
+            </attribute>
+            <attribute name="Y">
+              <ProcessValue datatype="number" value="150" />
+            </attribute>
+            <attribute name="Width">
+              <ProcessValue datatype="number" value="388" />
+            </attribute>
+            <attribute name="Height">
+              <ProcessValue datatype="number" value="34" />
+            </attribute>
+            <attribute name="Path" inuse="True">
+              <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/INPUT(1)" />
+            </attribute>
+            <attribute name="TagName" inuse="True">
+              <ProcessValue datatype="text" value="INPUT" />
+            </attribute>
+            <attribute name="ClassName" inuse="True">
+              <ProcessValue datatype="text" value="form-control" />
+            </attribute>
+            <attribute name="ID" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Title" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Link" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputType" inuse="True">
+              <ProcessValue datatype="text" value="email" />
+            </attribute>
+            <attribute name="InputIdentifier2" inuse="True">
+              <ProcessValue datatype="text" value="email" />
+            </attribute>
+            <attribute name="AncestorCount">
+              <ProcessValue datatype="number" value="11" />
+            </attribute>
+            <attribute name="Value">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Enabled" inuse="True">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+            <attribute name="Checked">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="pURL" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/" />
+            </attribute>
+            <attribute name="ScreenBounds">
+              <ProcessValue datatype="text" value="RECT:2686,328,362,3074" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+            <attribute name="MatchReverse">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+          </attributes>
+        </element>
+        <element name="textPass">
+          <id>b4247c04-5881-44f4-807f-92abc39b6270</id>
+          <type>HTML</type>
+          <basetype>HTML</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="X">
+              <ProcessValue datatype="number" value="391" />
+            </attribute>
+            <attribute name="Y">
+              <ProcessValue datatype="number" value="202" />
+            </attribute>
+            <attribute name="Width">
+              <ProcessValue datatype="number" value="388" />
+            </attribute>
+            <attribute name="Height">
+              <ProcessValue datatype="number" value="34" />
+            </attribute>
+            <attribute name="Path" inuse="True">
+              <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(2)/INPUT(1)" />
+            </attribute>
+            <attribute name="TagName" inuse="True">
+              <ProcessValue datatype="text" value="INPUT" />
+            </attribute>
+            <attribute name="ClassName" inuse="True">
+              <ProcessValue datatype="text" value="form-control" />
+            </attribute>
+            <attribute name="ID" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Title" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Link" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputType" inuse="True">
+              <ProcessValue datatype="text" value="password" />
+            </attribute>
+            <attribute name="InputIdentifier2" inuse="True">
+              <ProcessValue datatype="text" value="pass" />
+            </attribute>
+            <attribute name="AncestorCount">
+              <ProcessValue datatype="number" value="11" />
+            </attribute>
+            <attribute name="Value">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Enabled" inuse="True">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+            <attribute name="Checked">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="pURL" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/" />
+            </attribute>
+            <attribute name="ScreenBounds">
+              <ProcessValue datatype="text" value="RECT:2686,380,414,3074" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+            <attribute name="MatchReverse">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+          </attributes>
+        </element>
+        <element name="btnLogin">
+          <id>8768e3b6-6c61-4b65-9622-890e87e726c2</id>
+          <type>HTML</type>
+          <basetype>HTML</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="X">
+              <ProcessValue datatype="number" value="391" />
+            </attribute>
+            <attribute name="Y">
+              <ProcessValue datatype="number" value="280" />
+            </attribute>
+            <attribute name="Width">
+              <ProcessValue datatype="number" value="388" />
+            </attribute>
+            <attribute name="Height">
+              <ProcessValue datatype="number" value="48" />
+            </attribute>
+            <attribute name="Path" inuse="True">
+              <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(4)/BUTTON(1)" />
+            </attribute>
+            <attribute name="TagName" inuse="True">
+              <ProcessValue datatype="text" value="BUTTON" />
+            </attribute>
+            <attribute name="ClassName" inuse="True">
+              <ProcessValue datatype="text" value="btn btn-block btn-lg" />
+            </attribute>
+            <attribute name="ID" inuse="True">
+              <ProcessValue datatype="text" value="btnsubmit" />
+            </attribute>
+            <attribute name="Title" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Link" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputType" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputIdentifier2" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="AncestorCount">
+              <ProcessValue datatype="number" value="11" />
+            </attribute>
+            <attribute name="Value">
+              <ProcessValue datatype="text" value="Login Now" />
+            </attribute>
+            <attribute name="Enabled" inuse="True">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+            <attribute name="Checked">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="pURL" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/" />
+            </attribute>
+            <attribute name="ScreenBounds">
+              <ProcessValue datatype="text" value="RECT:2686,458,506,3074" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+            <attribute name="MatchReverse">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+          </attributes>
+        </element>
+        <type>HTML</type>
+        <basetype>HTML</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="375" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="100" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="1170" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="802" />
+          </attribute>
+          <attribute name="Path" inuse="True">
+            <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)" />
+          </attribute>
+          <attribute name="TagName" inuse="True">
+            <ProcessValue datatype="text" value="DIV" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="col-sm-12" />
+          </attribute>
+          <attribute name="ID" inuse="True">
+            <ProcessValue datatype="text" value="content" />
+          </attribute>
+          <attribute name="Title" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Link" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputType" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputIdentifier2" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="5" />
+          </attribute>
+          <attribute name="Value">
+            <ProcessValue datatype="text" value="&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Login to your account&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Forgot password? &#xD;&#xA;&#xD;&#xA;Login Now &#xD;&#xA;&#xD;&#xA;Not Registered? Click here to sign up&#xD;&#xA;var rk; var ce; $('#dblogin #btnsubmit').on('click', function() { $.ajax({ url: 'index.php?route=extension/module/dyball/validate_login', type: 'post', data: $('#dblogin .dbform').find('input[type=\'text\'], input[type=\'email\'], input[type=\'password\'], input[type=\'hidden\'], input[type=\'radio\']:checked, input[type=\'checkbox\']:checked, select, textarea'), beforeSend: function() { $('#dblogin #btnsubmit').prop('disabled', true); $('#dblogin .alert, #dblogin .text-danger').remove(); $('#dblogin .dbformitem.has-error').removeClass('has-error'); }, complete: function() { $('#dblogin #btnsubmit').prop('disabled', false); }, success: function(json) { if (json['error']) { for (i in json['error']) { if (i == 'warning') { $('#dblogin .dbform').before('&lt;div class=&quot;alert alert-danger&quot;&gt;&lt;i class=&quot;fa fa-exclamation-circle&quot;&gt;&lt;/i&gt; ' + json['error'][i] + '&lt;/div&gt;'); $('html, body').animate({ scrollTop: '0px' }, 'fast'); } else if (i == 'captcha') { $('#dblogin .g-recaptcha').after('&lt;div class=&quot;text-danger&quot;&gt;' + json['error'][i] + '&lt;/div&gt;'); } else { var element = $('#dblogin input[name=' + i + ']'); element.after('&lt;div class=&quot;text-danger&quot;&gt;' + json['error'][i] + '&lt;/div&gt;'); element.closest('.dbformitem').addClass('has-error'); } } // Highlight any found errors $('.text-danger').closest('.dbformitem').addClass('has-error'); } else if (json['need_to_verify']) { ce = json['ce']; rk = json['rk']; $('#dbneedtoverify').fadeIn('fast'); } else if (json['redirect']) { window.location.href = json['redirect']; } }, error: function(a, b, c) { console.log(a); console.log(b); console.log(c); } }); });  $(window).load(function() { $('#dbneedtoverify, #dbverifyemailsent').appendTo('body'); $('#dbneedtoverify').on('click', function(e) { if ($(e.target).closest('#dbneedtoverify .wrapper').length == 0) { $('#dbneedtoverify').fadeOut('fast'); } }); $('#dbneedtoverify .close').on('click', function(e) { $('#dbneedtoverify').fadeOut('fast'); }); $('#dbverifyemailsent').on('click', function(e) { if ($(e.target).closest('#dbverifyemailsent .wrapper').length == 0) { $('#dbverifyemailsent').fadeOut('fast'); } }); $('#dbverifyemailsent .close').on('click', function(e) { $('#dbverifyemailsent').fadeOut('fast'); }); $('#resend_email').on('click', function() { $.ajax({ url: 'index.php?route=extension/module/dyball/resend_verification_email', type: 'post', data: { ce : ce, rk : rk }, beforeSend: function() { $('#dbneedtoverify #resend_email').prop('disabled', true); $('#dbneedtoverify .alert').remove(); }, complete: function() { $('#dbneedtoverify #resend_email').prop('disabled', false); }, success: function(json) { if (json['success']) { $('#dbneedtoverify').fadeOut('fast', function () { $('#dbverifyemailsent').fadeIn('fast'); }); } else if (typeof json['error'] != 'undefined' &amp;&amp; typeof json['error']['warning'] != 'undefined') { $('#dbneedtoverify .resend').after('&lt;div class=&quot;alert alert-danger&quot;&gt;&lt;i class=&quot;fa fa-exclamation-circle&quot;&gt;&lt;/i&gt; ' + json['error']['warning'] + '&lt;/div&gt;'); } }, error: function(a, b, c) { console.log(a); console.log(b); console.log(c); } }); }); });  " />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Checked">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="pURL" inuse="True">
+            <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:2295,178,980,3465" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="MatchReverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="invoiceBox">
+        <id>81f567ff-345e-4603-ba9d-3b397417eca3</id>
+        <element name="linkViewInvoices">
+          <id>f39aaaf9-eb79-4c80-97fa-4597c2a4c36f</id>
+          <type>HTML</type>
+          <basetype>HTML</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="X">
+              <ProcessValue datatype="number" value="89" />
+            </attribute>
+            <attribute name="Y">
+              <ProcessValue datatype="number" value="17" />
+            </attribute>
+            <attribute name="Width">
+              <ProcessValue datatype="number" value="130" />
+            </attribute>
+            <attribute name="Height">
+              <ProcessValue datatype="number" value="25" />
+            </attribute>
+            <attribute name="Path" inuse="True">
+              <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(2)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/A(1)" />
+            </attribute>
+            <attribute name="TagName" inuse="True">
+              <ProcessValue datatype="text" value="A" />
+            </attribute>
+            <attribute name="ClassName" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="ID" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Title" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Link" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/my-account/invoices" />
+            </attribute>
+            <attribute name="InputType" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputIdentifier2" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="AncestorCount">
+              <ProcessValue datatype="number" value="12" />
+            </attribute>
+            <attribute name="Value">
+              <ProcessValue datatype="text" value="View Invoices" />
+            </attribute>
+            <attribute name="Enabled" inuse="True">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+            <attribute name="Checked">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="pURL" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/overview" />
+            </attribute>
+            <attribute name="ScreenBounds">
+              <ProcessValue datatype="text" value="RECT:2423,761,785,2553" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+            <attribute name="MatchReverse">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+          </attributes>
+        </element>
+        <type>HTML</type>
+        <basetype>HTML</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="15" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="308" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="356" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="320" />
+          </attribute>
+          <attribute name="Path" inuse="True">
+            <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(2)/DIV(1)/DIV(1)/DIV(1)/DIV(1)" />
+          </attribute>
+          <attribute name="TagName" inuse="True">
+            <ProcessValue datatype="text" value="DIV" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="wrapper" />
+          </attribute>
+          <attribute name="ID" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Title" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Link" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputType" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputIdentifier2" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="10" />
+          </attribute>
+          <attribute name="Value">
+            <ProcessValue datatype="text" value=" Account Balance&#xD;&#xA;&#xD;&#xA;£338.25&#xD;&#xA;&#xD;&#xA;View Invoices " />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Checked">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="pURL" inuse="True">
+            <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/overview" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:2310,486,806,2666" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="MatchReverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="invoice section">
+        <id>997b5944-ace2-4726-8f6c-963fe38fc125</id>
+        <element name="bills section">
+          <id>611c36c0-75ee-40d3-8111-3d2b19fc9938</id>
+          <element name="btnLoadmore">
+            <id>2f5c2a9c-2a80-4a2c-9e07-61496d0a3efc</id>
+            <type>HTML</type>
+            <basetype>HTML</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="X">
+                <ProcessValue datatype="number" value="60" />
+              </attribute>
+              <attribute name="Y">
+                <ProcessValue datatype="number" value="523" />
+              </attribute>
+              <attribute name="Width">
+                <ProcessValue datatype="number" value="101" />
+              </attribute>
+              <attribute name="Height">
+                <ProcessValue datatype="number" value="40" />
+              </attribute>
+              <attribute name="Path" inuse="True">
+                <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(3)/DIV(1)/DIV(2)/DIV(1)/SPAN(2)" />
+              </attribute>
+              <attribute name="TagName" inuse="True">
+                <ProcessValue datatype="text" value="SPAN" />
+              </attribute>
+              <attribute name="ClassName" inuse="True">
+                <ProcessValue datatype="text" value="btn btn-md btn-more" />
+              </attribute>
+              <attribute name="ID" inuse="True">
+                <ProcessValue datatype="text" value="more_rows" />
+              </attribute>
+              <attribute name="Title" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Link" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputType" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputIdentifier2" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="AncestorCount">
+                <ProcessValue datatype="number" value="12" />
+              </attribute>
+              <attribute name="Value">
+                <ProcessValue datatype="text" value="Load more" />
+              </attribute>
+              <attribute name="Enabled" inuse="True">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+              <attribute name="Checked">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="pURL" inuse="True">
+                <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/my-account/invoices" />
+              </attribute>
+              <attribute name="ScreenBounds">
+                <ProcessValue datatype="text" value="RECT:2450,874,914,2551" />
+              </attribute>
+              <attribute name="MatchIndex">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+              <attribute name="MatchReverse">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+            </attributes>
+          </element>
+          <element name="tableBills">
+            <id>98df60fe-de7f-4c27-af92-20d6e9e9fb42</id>
+            <type>HTMLTable</type>
+            <basetype>HTML</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="X">
+                <ProcessValue datatype="number" value="0" />
+              </attribute>
+              <attribute name="Y">
+                <ProcessValue datatype="number" value="0" />
+              </attribute>
+              <attribute name="Width">
+                <ProcessValue datatype="number" value="233" />
+              </attribute>
+              <attribute name="Height">
+                <ProcessValue datatype="number" value="46" />
+              </attribute>
+              <attribute name="Path" inuse="True">
+                <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(3)/DIV(1)/DIV(2)/TABLE(1)" />
+              </attribute>
+              <attribute name="TagName" inuse="True">
+                <ProcessValue datatype="text" value="TABLE" />
+              </attribute>
+              <attribute name="ClassName">
+                <ProcessValue datatype="text" value="date" />
+              </attribute>
+              <attribute name="ID">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Title">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Link">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputType">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputIdentifier2">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="AncestorCount">
+                <ProcessValue datatype="number" value="14" />
+              </attribute>
+              <attribute name="Value">
+                <ProcessValue datatype="text" value="Date" />
+              </attribute>
+              <attribute name="Enabled" inuse="True">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+              <attribute name="Checked">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="pURL" inuse="True">
+                <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/my-account/invoices" />
+              </attribute>
+              <attribute name="ScreenBounds">
+                <ProcessValue datatype="text" value="RECT:2450,623,669,2683" />
+              </attribute>
+              <attribute name="MatchIndex">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+              <attribute name="MatchReverse">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+            </attributes>
+          </element>
+          <type>HTML</type>
+          <basetype>HTML</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="X">
+              <ProcessValue datatype="number" value="91" />
+            </attribute>
+            <attribute name="Y">
+              <ProcessValue datatype="number" value="610" />
+            </attribute>
+            <attribute name="Width">
+              <ProcessValue datatype="number" value="1028" />
+            </attribute>
+            <attribute name="Height">
+              <ProcessValue datatype="number" value="599" />
+            </attribute>
+            <attribute name="Path" inuse="True">
+              <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(3)/DIV(1)" />
+            </attribute>
+            <attribute name="TagName" inuse="True">
+              <ProcessValue datatype="text" value="DIV" />
+            </attribute>
+            <attribute name="ClassName" inuse="True">
+              <ProcessValue datatype="text" value="wrapper" />
+            </attribute>
+            <attribute name="ID" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Title" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Link" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputType" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputIdentifier2" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="AncestorCount">
+              <ProcessValue datatype="number" value="9" />
+            </attribute>
+            <attribute name="Value">
+              <ProcessValue datatype="text" value="&#xD;&#xA; Show / Hide Bills &#xD;&#xA;&#xD;&#xA; Show / Hide Payments &#xD;&#xA;&#xD;&#xA;Bills &amp; Payments&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;DateBill TypeBillsPayments&#xD;&#xA;&#xD;&#xA;09 Feb 2021Dual Fuel£45.28View &#xD;&#xA;02 Feb 2021£173.00&#xD;&#xA;28 Jan 2021Dual Fuel£180.41View &#xD;&#xA;04 Jan 2021£173.00&#xD;&#xA;29 Dec 2020Dual Fuel£141.75View &#xD;&#xA;02 Dec 2020£173.00&#xD;&#xA;30 Nov 2020Dual Fuel£167.30View &#xD;&#xA;02 Nov 2020£173.00&#xD;&#xA;28 Oct 2020Dual Fuel£135.38View &#xD;&#xA;02 Oct 2020£173.00&#xD;&#xA;28 Sep 2020Dual Fuel£148.49View &#xD;&#xA;02 Sep 2020£267.00&#xD;&#xA;28 Aug 2020Dual Fuel£105.98View &#xD;&#xA;03 Aug 2020£134.00&#xD;&#xA;30 Jul 2020Dual Fuel£112.10View &#xD;&#xA;02 Jul 2020£134.00&#xD;&#xA;29 Jun 2020Dual Fuel£122.36View &#xD;&#xA;02 Jun 2020£134.00&#xD;&#xA;28 May 2020Dual Fuel£123.95View &#xD;&#xA;04 May 2020£134.00&#xD;&#xA;28 Apr 2020Dual Fuel£137.66View &#xD;&#xA;02 Apr 2020£134.00&#xD;&#xA;30 Mar 2020Dual Fuel£137.61View &#xD;&#xA;02 Mar 2020£134.00&#xD;&#xA;03 Feb 2020£53.60&#xD;&#xA;03 Feb 2020£80.40&#xD;&#xA;02 Jan 2020£80.40&#xD;&#xA;02 Jan 2020£53.60&#xD;&#xA;02 Dec 2019£80.40&#xD;&#xA;02 Dec 2019£53.60&#xD;&#xA;04 Nov 2019£80.40&#xD;&#xA;04 Nov 2019£53.60&#xD;&#xA;02 Oct 2019£64.80&#xD;&#xA;02 Oct 2019£43.20&#xD;&#xA;02 Sep 2019£64.80&#xD;&#xA;02 Sep 2019£43.20&#xD;&#xA;&#xD;&#xA;Show less Load more &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Bills&#xD;&#xA;&#xD;&#xA;Date Bill Type Amount&#xD;&#xA;&#xD;&#xA;09 Feb 2021 Dual Fuel £45.28 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Jan 2021 Dual Fuel £180.41 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;29 Dec 2020 Dual Fuel £141.75 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;30 Nov 2020 Dual Fuel £167.30 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Oct 2020 Dual Fuel £135.38 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Sep 2020 Dual Fuel £148.49 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Aug 2020 Dual Fuel £105.98 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;30 Jul 2020 Dual Fuel £112.10 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;29 Jun 2020 Dual Fuel £122.36 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 May 2020 Dual Fuel £123.95 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Apr 2020 Dual Fuel £137.66 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;30 Mar 2020 Dual Fuel £137.61 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Payments&#xD;&#xA;&#xD;&#xA;Date Bill Type Amount&#xD;&#xA;&#xD;&#xA;02 Feb 2021 £173.00&#xD;&#xA;04 Jan 2021 £173.00&#xD;&#xA;02 Dec 2020 £173.00&#xD;&#xA;02 Nov 2020 £173.00&#xD;&#xA;02 Oct 2020 £173.00&#xD;&#xA;02 Sep 2020 £267.00&#xD;&#xA;03 Aug 2020 £134.00&#xD;&#xA;02 Jul 2020 £134.00&#xD;&#xA;02 Jun 2020 £134.00&#xD;&#xA;04 May 2020 £134.00&#xD;&#xA;02 Apr 2020 £134.00&#xD;&#xA;02 Mar 2020 £134.00&#xD;&#xA;03 Feb 2020 £53.60&#xD;&#xA;03 Feb 2020 £80.40&#xD;&#xA;02 Jan 2020 £80.40&#xD;&#xA;02 Jan 2020 £53.60&#xD;&#xA;02 Dec 2019 £80.40&#xD;&#xA;02 Dec 2019 £53.60&#xD;&#xA;04 Nov 2019 £80.40&#xD;&#xA;04 Nov 2019 £53.60&#xD;&#xA;02 Oct 2019 £64.80&#xD;&#xA;02 Oct 2019 £43.20&#xD;&#xA;02 Sep 2019 £64.80&#xD;&#xA;02 Sep 2019 £43.20" />
+            </attribute>
+            <attribute name="Enabled" inuse="True">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+            <attribute name="Checked">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="pURL" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/my-account/invoices" />
+            </attribute>
+            <attribute name="ScreenBounds">
+              <ProcessValue datatype="text" value="RECT:2386,351,950,3414" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+            <attribute name="MatchReverse">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+          </attributes>
+        </element>
+        <element name="linkViewMeterReadings">
+          <id>9d0ff026-8079-415f-b2b3-5a0dcf28e8bd</id>
+          <type>HTML</type>
+          <basetype>HTML</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="X">
+              <ProcessValue datatype="number" value="40" />
+            </attribute>
+            <attribute name="Y">
+              <ProcessValue datatype="number" value="278" />
+            </attribute>
+            <attribute name="Width">
+              <ProcessValue datatype="number" value="228" />
+            </attribute>
+            <attribute name="Height">
+              <ProcessValue datatype="number" value="25" />
+            </attribute>
+            <attribute name="Path" inuse="True">
+              <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/P(1)/A(1)" />
+            </attribute>
+            <attribute name="TagName" inuse="True">
+              <ProcessValue datatype="text" value="A" />
+            </attribute>
+            <attribute name="ClassName" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="ID" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Title" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Link" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/meter-readings" />
+            </attribute>
+            <attribute name="InputType" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputIdentifier2" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="AncestorCount">
+              <ProcessValue datatype="number" value="10" />
+            </attribute>
+            <attribute name="Value">
+              <ProcessValue datatype="text" value="View your meter readings" />
+            </attribute>
+            <attribute name="Enabled" inuse="True">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+            <attribute name="Checked">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="pURL" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/my-account/invoices" />
+            </attribute>
+            <attribute name="ScreenBounds">
+              <ProcessValue datatype="text" value="RECT:2335,163,187,2563" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+            <attribute name="MatchReverse">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+          </attributes>
+        </element>
+        <type>HTML</type>
+        <basetype>HTML</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="375" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="100" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="1170" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="1239" />
+          </attribute>
+          <attribute name="Path" inuse="True">
+            <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)" />
+          </attribute>
+          <attribute name="TagName" inuse="True">
+            <ProcessValue datatype="text" value="DIV" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="col-sm-12" />
+          </attribute>
+          <attribute name="ID" inuse="True">
+            <ProcessValue datatype="text" value="content" />
+          </attribute>
+          <attribute name="Title" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Link" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputType" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputIdentifier2" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="5" />
+          </attribute>
+          <attribute name="Value">
+            <ProcessValue datatype="text" value="&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;My Invoices&#xD;&#xA;&#xD;&#xA;Acc. No: 1023823 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;This section shows the bills and payments made on your account. You can use this to calculate your balance. Please note that if you are single fuel customer your display will be different to that of a dual fuel account.&#xD;&#xA;&#xD;&#xA;If you need to check your meter readings or need to enter a new one; please see below.&#xD;&#xA;&#xD;&#xA;View your meter readings&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Account Details&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Account number:&#xD;&#xA; 1023823 &#xD;&#xA;&#xD;&#xA;Your plan(s):&#xD;&#xA; Electricity: Broccoli19&#xD;&#xA;Gas: Broccoli19	&#xD;&#xA;&#xD;&#xA;Payment method:&#xD;&#xA; Electricity: Fixed Direct Debit&#xD;&#xA;Gas: Fixed Direct Debit &#xD;&#xA;&#xD;&#xA;Last bill date:&#xD;&#xA; Dual Fuel: 09 Feb 2021 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA; Show / Hide Bills &#xD;&#xA;&#xD;&#xA; Show / Hide Payments &#xD;&#xA;&#xD;&#xA;Bills &amp; Payments&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;DateBill TypeBillsPayments&#xD;&#xA;&#xD;&#xA;09 Feb 2021Dual Fuel£45.28View &#xD;&#xA;02 Feb 2021£173.00&#xD;&#xA;28 Jan 2021Dual Fuel£180.41View &#xD;&#xA;04 Jan 2021£173.00&#xD;&#xA;29 Dec 2020Dual Fuel£141.75View &#xD;&#xA;02 Dec 2020£173.00&#xD;&#xA;30 Nov 2020Dual Fuel£167.30View &#xD;&#xA;02 Nov 2020£173.00&#xD;&#xA;28 Oct 2020Dual Fuel£135.38View &#xD;&#xA;02 Oct 2020£173.00&#xD;&#xA;28 Sep 2020Dual Fuel£148.49View &#xD;&#xA;02 Sep 2020£267.00&#xD;&#xA;28 Aug 2020Dual Fuel£105.98View &#xD;&#xA;03 Aug 2020£134.00&#xD;&#xA;30 Jul 2020Dual Fuel£112.10View &#xD;&#xA;02 Jul 2020£134.00&#xD;&#xA;29 Jun 2020Dual Fuel£122.36View &#xD;&#xA;02 Jun 2020£134.00&#xD;&#xA;28 May 2020Dual Fuel£123.95View &#xD;&#xA;04 May 2020£134.00&#xD;&#xA;28 Apr 2020Dual Fuel£137.66View &#xD;&#xA;02 Apr 2020£134.00&#xD;&#xA;30 Mar 2020Dual Fuel£137.61View &#xD;&#xA;02 Mar 2020£134.00&#xD;&#xA;03 Feb 2020£53.60&#xD;&#xA;03 Feb 2020£80.40&#xD;&#xA;02 Jan 2020£80.40&#xD;&#xA;02 Jan 2020£53.60&#xD;&#xA;02 Dec 2019£80.40&#xD;&#xA;02 Dec 2019£53.60&#xD;&#xA;04 Nov 2019£80.40&#xD;&#xA;04 Nov 2019£53.60&#xD;&#xA;02 Oct 2019£64.80&#xD;&#xA;02 Oct 2019£43.20&#xD;&#xA;02 Sep 2019£64.80&#xD;&#xA;02 Sep 2019£43.20&#xD;&#xA;&#xD;&#xA;Show less Load more &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Bills&#xD;&#xA;&#xD;&#xA;Date Bill Type Amount&#xD;&#xA;&#xD;&#xA;09 Feb 2021 Dual Fuel £45.28 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Jan 2021 Dual Fuel £180.41 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;29 Dec 2020 Dual Fuel £141.75 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;30 Nov 2020 Dual Fuel £167.30 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Oct 2020 Dual Fuel £135.38 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Sep 2020 Dual Fuel £148.49 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Aug 2020 Dual Fuel £105.98 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;30 Jul 2020 Dual Fuel £112.10 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;29 Jun 2020 Dual Fuel £122.36 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 May 2020 Dual Fuel £123.95 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;28 Apr 2020 Dual Fuel £137.66 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;30 Mar 2020 Dual Fuel £137.61 &#xD;&#xA;View&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Payments&#xD;&#xA;&#xD;&#xA;Date Bill Type Amount&#xD;&#xA;&#xD;&#xA;02 Feb 2021 £173.00&#xD;&#xA;04 Jan 2021 £173.00&#xD;&#xA;02 Dec 2020 £173.00&#xD;&#xA;02 Nov 2020 £173.00&#xD;&#xA;02 Oct 2020 £173.00&#xD;&#xA;02 Sep 2020 £267.00&#xD;&#xA;03 Aug 2020 £134.00&#xD;&#xA;02 Jul 2020 £134.00&#xD;&#xA;02 Jun 2020 £134.00&#xD;&#xA;04 May 2020 £134.00&#xD;&#xA;02 Apr 2020 £134.00&#xD;&#xA;02 Mar 2020 £134.00&#xD;&#xA;03 Feb 2020 £53.60&#xD;&#xA;03 Feb 2020 £80.40&#xD;&#xA;02 Jan 2020 £80.40&#xD;&#xA;02 Jan 2020 £53.60&#xD;&#xA;02 Dec 2019 £80.40&#xD;&#xA;02 Dec 2019 £53.60&#xD;&#xA;04 Nov 2019 £80.40&#xD;&#xA;04 Nov 2019 £53.60&#xD;&#xA;02 Oct 2019 £64.80&#xD;&#xA;02 Oct 2019 £43.20&#xD;&#xA;02 Sep 2019 £64.80&#xD;&#xA;02 Sep 2019 £43.20&#xD;&#xA;&lt;!-- $('#more_rows').on('click', function() { $('#invoices tbody tr.hidable.hidden').removeClass('hidden'); $('#more_rows').hide(); $('#less_rows').show(); }); $('#less_rows').on('click', function() { $('#invoices tbody tr.hidable').addClass('hidden'); $('#less_rows').hide(); $('#more_rows').show(); }); $('.showhidecol').on('change', function() { var col = $(this).data('col'); var $table = $(this).closest('.dbpanel').find('table.invoices'); if ($(this).is(':checked')) { $table.find('tr.' + col + ', td.' + col).show(); if ($table.find('tr:visible').length &gt; 6) { $(this).closest('.dbpanel').find('.btn-less').trigger('click'); } } else { $table.find('tr.' + col + ', td.' + col).hide(); if ($table.find('tr:visible').length &lt; 6) { $(this).closest('.dbpanel').find('.btn-more').trigger('click'); } } }); --&gt; " />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Checked">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="pURL" inuse="True">
+            <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/my-account/invoices" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:2295,178,1417,3465" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="MatchReverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="readings section">
+        <id>471f95c8-d540-46c1-bc77-6acc79f4bf7b</id>
+        <element name="sectionGasMeter">
+          <id>a1409454-e123-4f00-b1bf-9efaf88f05cb</id>
+          <element name="btnLoadMoreGas">
+            <id>bed94229-eda0-4209-a885-415fcc47bad0</id>
+            <type>HTML</type>
+            <basetype>HTML</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="X">
+                <ProcessValue datatype="number" value="60" />
+              </attribute>
+              <attribute name="Y">
+                <ProcessValue datatype="number" value="508" />
+              </attribute>
+              <attribute name="Width">
+                <ProcessValue datatype="number" value="160" />
+              </attribute>
+              <attribute name="Height">
+                <ProcessValue datatype="number" value="40" />
+              </attribute>
+              <attribute name="Path" inuse="True">
+                <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(4)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(2)" />
+              </attribute>
+              <attribute name="TagName" inuse="True">
+                <ProcessValue datatype="text" value="DIV" />
+              </attribute>
+              <attribute name="ClassName" inuse="True">
+                <ProcessValue datatype="text" value="btn btn-md show_more_readings" />
+              </attribute>
+              <attribute name="ID" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Title" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Link" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputType" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputIdentifier2" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="AncestorCount">
+                <ProcessValue datatype="number" value="13" />
+              </attribute>
+              <attribute name="Value">
+                <ProcessValue datatype="text" value="Load more readings" />
+              </attribute>
+              <attribute name="Enabled" inuse="True">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+              <attribute name="Checked">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="pURL" inuse="True">
+                <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/meter-readings" />
+              </attribute>
+              <attribute name="ScreenBounds">
+                <ProcessValue datatype="text" value="RECT:2450,686,726,2610" />
+              </attribute>
+              <attribute name="MatchIndex">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+              <attribute name="MatchReverse">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+            </attributes>
+          </element>
+          <element name="tableGasReadings">
+            <id>f26ec8c5-d7e1-4dd2-8c26-7d1b36023305</id>
+            <type>HTMLTable</type>
+            <basetype>HTML</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="X">
+                <ProcessValue datatype="number" value="0" />
+              </attribute>
+              <attribute name="Y">
+                <ProcessValue datatype="number" value="0" />
+              </attribute>
+              <attribute name="Width">
+                <ProcessValue datatype="number" value="964" />
+              </attribute>
+              <attribute name="Height">
+                <ProcessValue datatype="number" value="41" />
+              </attribute>
+              <attribute name="Path" inuse="True">
+                <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(4)/DIV(1)/DIV(1)/DIV(1)/TABLE(1)" />
+              </attribute>
+              <attribute name="TagName" inuse="True">
+                <ProcessValue datatype="text" value="TABLE" />
+              </attribute>
+              <attribute name="ClassName">
+                <ProcessValue datatype="text" value="meterno" />
+              </attribute>
+              <attribute name="ID">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Title">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Link">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputType">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputIdentifier2">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="AncestorCount">
+                <ProcessValue datatype="number" value="15" />
+              </attribute>
+              <attribute name="Value">
+                <ProcessValue datatype="text" value="Installed: 30th April 2004 &#xD;&#xA; Meter number: G4W01013480301 " />
+              </attribute>
+              <attribute name="Enabled" inuse="True">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+              <attribute name="Checked">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="pURL" inuse="True">
+                <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/meter-readings" />
+              </attribute>
+              <attribute name="ScreenBounds">
+                <ProcessValue datatype="text" value="RECT:2450,162,202,3414" />
+              </attribute>
+              <attribute name="MatchIndex">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+              <attribute name="MatchReverse">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+            </attributes>
+          </element>
+          <type>HTML</type>
+          <basetype>HTML</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="X">
+              <ProcessValue datatype="number" value="91" />
+            </attribute>
+            <attribute name="Y">
+              <ProcessValue datatype="number" value="1125" />
+            </attribute>
+            <attribute name="Width">
+              <ProcessValue datatype="number" value="1028" />
+            </attribute>
+            <attribute name="Height">
+              <ProcessValue datatype="number" value="584" />
+            </attribute>
+            <attribute name="Path" inuse="True">
+              <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(4)/DIV(1)" />
+            </attribute>
+            <attribute name="TagName" inuse="True">
+              <ProcessValue datatype="text" value="DIV" />
+            </attribute>
+            <attribute name="ClassName" inuse="True">
+              <ProcessValue datatype="text" value="wrapper" />
+            </attribute>
+            <attribute name="ID" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Title" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Link" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputType" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputIdentifier2" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="AncestorCount">
+              <ProcessValue datatype="number" value="9" />
+            </attribute>
+            <attribute name="Value">
+              <ProcessValue datatype="text" value="Gas Meter Readings&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Installed: 30th April 2004 &#xD;&#xA; Meter number: G4W01013480301 &#xD;&#xA;DateTypeReading&#xD;&#xA;&#xD;&#xA;15/02/2021Actual14485&#xD;&#xA;30/01/2021Estimate14485&#xD;&#xA;24/01/2021Actual14453&#xD;&#xA;23/01/2021Estimate14449&#xD;&#xA;24/12/2020Actual14325&#xD;&#xA;23/12/2020Estimate14322&#xD;&#xA;29/11/2020Actual14237&#xD;&#xA;23/11/2020Estimate14249&#xD;&#xA;23/10/2020Actual14145&#xD;&#xA;26/09/2020Actual14099&#xD;&#xA;23/09/2020Estimate14095&#xD;&#xA;28/08/2020Actual14055&#xD;&#xA;27/08/2020Estimate14052&#xD;&#xA;23/08/2020Estimate14037&#xD;&#xA;24/07/2020Customer14014&#xD;&#xA;23/07/2020Estimate14013&#xD;&#xA;27/06/2020Actual13980&#xD;&#xA;23/06/2020Estimate13975&#xD;&#xA;25/05/2020Actual13934&#xD;&#xA;23/05/2020Estimate13930&#xD;&#xA;23/04/2020Actual13870&#xD;&#xA;25/03/2020Actual13793&#xD;&#xA;23/03/2020Estimate13786&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Show less readings&#xD;&#xA;&#xD;&#xA;Load more readings&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Meter number: &#xD;&#xA;G4W01013480301&#xD;&#xA;&#xD;&#xA;Installed: 30th April 2004&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 15/02/2021 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14485 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 30/01/2021 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14485 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/01/2021 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14453 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/01/2021 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14449 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/12/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14325 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/12/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14322 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 29/11/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14237 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/11/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14249 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/10/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14145 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 26/09/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14099 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/09/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14095 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 28/08/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14055 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 27/08/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14052 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/08/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14037 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/07/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;Reading 14014 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/07/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14013 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 27/06/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 13980 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/06/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 13975 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 25/05/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 13934 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/05/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 13930 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/04/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 13870 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 25/03/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 13793 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/03/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 13786 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Show less readings&#xD;&#xA;&#xD;&#xA;Load more readings" />
+            </attribute>
+            <attribute name="Enabled" inuse="True">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+            <attribute name="Checked">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="pURL" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/meter-readings" />
+            </attribute>
+            <attribute name="ScreenBounds">
+              <ProcessValue datatype="text" value="RECT:2386,295,879,3414" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+            <attribute name="MatchReverse">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+          </attributes>
+        </element>
+        <element name="sectionElecMeter">
+          <id>8862a77f-bd53-4b45-8ad2-0c36c69e237d</id>
+          <element name="btnLoadMoreElec">
+            <id>8432ca3b-f7d5-4a05-87d4-3884adbc8be5</id>
+            <type>HTML</type>
+            <basetype>HTML</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="X">
+                <ProcessValue datatype="number" value="60" />
+              </attribute>
+              <attribute name="Y">
+                <ProcessValue datatype="number" value="508" />
+              </attribute>
+              <attribute name="Width">
+                <ProcessValue datatype="number" value="160" />
+              </attribute>
+              <attribute name="Height">
+                <ProcessValue datatype="number" value="40" />
+              </attribute>
+              <attribute name="Path" inuse="True">
+                <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(5)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(2)" />
+              </attribute>
+              <attribute name="TagName" inuse="True">
+                <ProcessValue datatype="text" value="DIV" />
+              </attribute>
+              <attribute name="ClassName" inuse="True">
+                <ProcessValue datatype="text" value="btn btn-md show_more_readings" />
+              </attribute>
+              <attribute name="ID" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Title" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Link" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputType" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputIdentifier2" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="AncestorCount">
+                <ProcessValue datatype="number" value="13" />
+              </attribute>
+              <attribute name="Value">
+                <ProcessValue datatype="text" value="Load more readings" />
+              </attribute>
+              <attribute name="Enabled" inuse="True">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+              <attribute name="Checked">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="pURL" inuse="True">
+                <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/meter-readings" />
+              </attribute>
+              <attribute name="ScreenBounds">
+                <ProcessValue datatype="text" value="RECT:2450,874,914,2610" />
+              </attribute>
+              <attribute name="MatchIndex">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+              <attribute name="MatchReverse">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+            </attributes>
+          </element>
+          <element name="tableElecReadings">
+            <id>31c5f8d3-1214-469b-a266-5b1d4ef604d2</id>
+            <type>HTMLTable</type>
+            <basetype>HTML</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="X">
+                <ProcessValue datatype="number" value="0" />
+              </attribute>
+              <attribute name="Y">
+                <ProcessValue datatype="number" value="0" />
+              </attribute>
+              <attribute name="Width">
+                <ProcessValue datatype="number" value="964" />
+              </attribute>
+              <attribute name="Height">
+                <ProcessValue datatype="number" value="41" />
+              </attribute>
+              <attribute name="Path" inuse="True">
+                <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(5)/DIV(1)/DIV(1)/DIV(1)/TABLE(1)" />
+              </attribute>
+              <attribute name="TagName" inuse="True">
+                <ProcessValue datatype="text" value="TABLE" />
+              </attribute>
+              <attribute name="ClassName">
+                <ProcessValue datatype="text" value="meterno" />
+              </attribute>
+              <attribute name="ID">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Title" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="Link">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputType">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="InputIdentifier2">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="AncestorCount">
+                <ProcessValue datatype="number" value="15" />
+              </attribute>
+              <attribute name="Value">
+                <ProcessValue datatype="text" value="Installed: 5th January 2010 &#xD;&#xA; Meter number: S08EH19675 " />
+              </attribute>
+              <attribute name="Enabled" inuse="True">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+              <attribute name="Checked">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="pURL" inuse="True">
+                <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/meter-readings" />
+              </attribute>
+              <attribute name="ScreenBounds">
+                <ProcessValue datatype="text" value="RECT:2450,206,246,3414" />
+              </attribute>
+              <attribute name="MatchIndex">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+              <attribute name="MatchReverse">
+                <ProcessValue datatype="flag" value="True" />
+              </attribute>
+            </attributes>
+          </element>
+          <type>HTML</type>
+          <basetype>HTML</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="X">
+              <ProcessValue datatype="number" value="91" />
+            </attribute>
+            <attribute name="Y">
+              <ProcessValue datatype="number" value="1745" />
+            </attribute>
+            <attribute name="Width">
+              <ProcessValue datatype="number" value="1028" />
+            </attribute>
+            <attribute name="Height">
+              <ProcessValue datatype="number" value="584" />
+            </attribute>
+            <attribute name="Path" inuse="True">
+              <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(5)/DIV(1)" />
+            </attribute>
+            <attribute name="TagName" inuse="True">
+              <ProcessValue datatype="text" value="DIV" />
+            </attribute>
+            <attribute name="ClassName" inuse="True">
+              <ProcessValue datatype="text" value="wrapper" />
+            </attribute>
+            <attribute name="ID" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Title" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="Link" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputType" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="InputIdentifier2" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="AncestorCount">
+              <ProcessValue datatype="number" value="9" />
+            </attribute>
+            <attribute name="Value">
+              <ProcessValue datatype="text" value="Electricity Meter Readings&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Installed: 5th January 2010 &#xD;&#xA; Meter number: S08EH19675 &#xD;&#xA;DateTypeAll Units Reading&#xD;&#xA;&#xD;&#xA;15/02/2021Customer65748&#xD;&#xA;30/01/2021Estimate65748&#xD;&#xA;24/01/2021Customer65530&#xD;&#xA;23/01/2021Estimate65497&#xD;&#xA;24/12/2020Customer64486&#xD;&#xA;23/12/2020Estimate64455&#xD;&#xA;29/11/2020Customer63699&#xD;&#xA;23/11/2020Estimate63572&#xD;&#xA;23/10/2020Customer62572&#xD;&#xA;26/09/2020Customer61746&#xD;&#xA;23/09/2020Estimate61666&#xD;&#xA;28/08/2020Customer60965&#xD;&#xA;27/08/2020Estimate60926&#xD;&#xA;23/08/2020Estimate60769&#xD;&#xA;30/07/2020Actual60181&#xD;&#xA;24/07/2020Customer60037&#xD;&#xA;23/07/2020Estimate60012&#xD;&#xA;27/06/2020Customer59352&#xD;&#xA;23/06/2020Estimate59245&#xD;&#xA;25/05/2020Customer58464&#xD;&#xA;23/05/2020Estimate58411&#xD;&#xA;23/04/2020Customer57613&#xD;&#xA;25/03/2020Customer56831&#xD;&#xA;23/03/2020Estimate56779&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Show less readings&#xD;&#xA;&#xD;&#xA;Load more readings&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Meter number: &#xD;&#xA;S08EH19675&#xD;&#xA;&#xD;&#xA;Installed: 5th January 2010&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 15/02/2021 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 65748 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 30/01/2021 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 65748 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/01/2021 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 65530 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/01/2021 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 65497 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/12/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 64486 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/12/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 64455 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 29/11/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 63699 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/11/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 63572 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/10/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 62572 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 26/09/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 61746 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/09/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 61666 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 28/08/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 60965 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 27/08/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 60926 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/08/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 60769 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 30/07/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;All Units 60181 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/07/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 60037 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/07/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 60012 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 27/06/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 59352 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/06/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 59245 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 25/05/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 58464 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/05/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 58411 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/04/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 57613 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 25/03/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 56831 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/03/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 56779 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Show less readings&#xD;&#xA;&#xD;&#xA;Load more readings" />
+            </attribute>
+            <attribute name="Enabled" inuse="True">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+            <attribute name="Checked">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="pURL" inuse="True">
+              <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/meter-readings" />
+            </attribute>
+            <attribute name="ScreenBounds">
+              <ProcessValue datatype="text" value="RECT:2386,366,950,3414" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+            <attribute name="MatchReverse">
+              <ProcessValue datatype="flag" value="True" />
+            </attribute>
+          </attributes>
+        </element>
+        <type>HTML</type>
+        <basetype>HTML</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="15" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="30" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="1140" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="2299" />
+          </attribute>
+          <attribute name="Path" inuse="True">
+            <ProcessValue datatype="text" value="/HTML/BODY(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)/DIV(1)" />
+          </attribute>
+          <attribute name="TagName" inuse="True">
+            <ProcessValue datatype="text" value="DIV" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="wrapper" />
+          </attribute>
+          <attribute name="ID" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Title" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="Link" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputType" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="InputIdentifier2" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="7" />
+          </attribute>
+          <attribute name="Value">
+            <ProcessValue datatype="text" value="&#xD;&#xA;Meter Readings&#xD;&#xA;&#xD;&#xA;Acc. No: 1023823 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Here you can view a record of your gas and electricity meter readings. This area also gives you the date that the meter was installed.&#xD;&#xA;&#xD;&#xA;You can also enter a meter reading in the ‘submit your readings’ area. To do so, please type in the appropriate numeric value in the appropriate meter reading box and select the reading date that this value was taken.&#xD;&#xA;&#xD;&#xA;View Energy Usage Graphs&#xD;&#xA;&#xD;&#xA;Jump to: Submit your readings&#xD;&#xA; Gas meter readings&#xD;&#xA; Electricity meter readings&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Submit Your Readings&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Gas&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Meter number: G4W01013480301&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Your meter reading&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;0&#xD;&#xA;&#xD;&#xA;0&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;Last reading (15th February 2021)&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;1&#xD;&#xA;&#xD;&#xA;4&#xD;&#xA;&#xD;&#xA;4&#xD;&#xA;&#xD;&#xA;8&#xD;&#xA;&#xD;&#xA;5&#xD;&#xA;&#xD;&#xA;0&#xD;&#xA;&#xD;&#xA;0&#xD;&#xA; Reading date &#xD;&#xA;1st 2nd 3rd 4th 5th 6th 7th 8th 9th 10th 11th 12th 13th 14th 15th 16th 17th 18th 19th 20th 21st 22nd 23rd 24th 25th 26th 27th 28th 29th 30th 31st  January February March April May June July August September October November December  2020 2021 2022  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Electricity&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Meter number: S08EH19675&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;All Units&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;0&#xD;&#xA;&#xD;&#xA;0&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;Last reading (15th February 2021)&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;6&#xD;&#xA;&#xD;&#xA;5&#xD;&#xA;&#xD;&#xA;7&#xD;&#xA;&#xD;&#xA;4&#xD;&#xA;&#xD;&#xA;8&#xD;&#xA;&#xD;&#xA;0&#xD;&#xA;&#xD;&#xA;0&#xD;&#xA; Reading date &#xD;&#xA;1st 2nd 3rd 4th 5th 6th 7th 8th 9th 10th 11th 12th 13th 14th 15th 16th 17th 18th 19th 20th 21st 22nd 23rd 24th 25th 26th 27th 28th 29th 30th 31st  January February March April May June July August September October November December  2020 2021 2022  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Gas Meter Readings&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Installed: 30th April 2004 &#xD;&#xA; Meter number: G4W01013480301 &#xD;&#xA;DateTypeReading&#xD;&#xA;&#xD;&#xA;15/02/2021Actual14485&#xD;&#xA;30/01/2021Estimate14485&#xD;&#xA;24/01/2021Actual14453&#xD;&#xA;23/01/2021Estimate14449&#xD;&#xA;24/12/2020Actual14325&#xD;&#xA;23/12/2020Estimate14322&#xD;&#xA;29/11/2020Actual14237&#xD;&#xA;23/11/2020Estimate14249&#xD;&#xA;23/10/2020Actual14145&#xD;&#xA;26/09/2020Actual14099&#xD;&#xA;23/09/2020Estimate14095&#xD;&#xA;28/08/2020Actual14055&#xD;&#xA;27/08/2020Estimate14052&#xD;&#xA;23/08/2020Estimate14037&#xD;&#xA;24/07/2020Customer14014&#xD;&#xA;23/07/2020Estimate14013&#xD;&#xA;27/06/2020Actual13980&#xD;&#xA;23/06/2020Estimate13975&#xD;&#xA;25/05/2020Actual13934&#xD;&#xA;23/05/2020Estimate13930&#xD;&#xA;23/04/2020Actual13870&#xD;&#xA;25/03/2020Actual13793&#xD;&#xA;23/03/2020Estimate13786&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Show less readings&#xD;&#xA;&#xD;&#xA;Load more readings&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Meter number: &#xD;&#xA;G4W01013480301&#xD;&#xA;&#xD;&#xA;Installed: 30th April 2004&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 15/02/2021 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14485 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 30/01/2021 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14485 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/01/2021 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14453 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/01/2021 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14449 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/12/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14325 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/12/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14322 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 29/11/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14237 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/11/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14249 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/10/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14145 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 26/09/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14099 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/09/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14095 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 28/08/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 14055 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 27/08/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14052 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/08/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14037 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/07/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;Reading 14014 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/07/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 14013 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 27/06/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 13980 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/06/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 13975 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 25/05/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 13934 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/05/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 13930 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/04/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 13870 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 25/03/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;Reading 13793 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/03/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;Reading 13786 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Show less readings&#xD;&#xA;&#xD;&#xA;Load more readings&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Electricity Meter Readings&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Installed: 5th January 2010 &#xD;&#xA; Meter number: S08EH19675 &#xD;&#xA;DateTypeAll Units Reading&#xD;&#xA;&#xD;&#xA;15/02/2021Customer65748&#xD;&#xA;30/01/2021Estimate65748&#xD;&#xA;24/01/2021Customer65530&#xD;&#xA;23/01/2021Estimate65497&#xD;&#xA;24/12/2020Customer64486&#xD;&#xA;23/12/2020Estimate64455&#xD;&#xA;29/11/2020Customer63699&#xD;&#xA;23/11/2020Estimate63572&#xD;&#xA;23/10/2020Customer62572&#xD;&#xA;26/09/2020Customer61746&#xD;&#xA;23/09/2020Estimate61666&#xD;&#xA;28/08/2020Customer60965&#xD;&#xA;27/08/2020Estimate60926&#xD;&#xA;23/08/2020Estimate60769&#xD;&#xA;30/07/2020Actual60181&#xD;&#xA;24/07/2020Customer60037&#xD;&#xA;23/07/2020Estimate60012&#xD;&#xA;27/06/2020Customer59352&#xD;&#xA;23/06/2020Estimate59245&#xD;&#xA;25/05/2020Customer58464&#xD;&#xA;23/05/2020Estimate58411&#xD;&#xA;23/04/2020Customer57613&#xD;&#xA;25/03/2020Customer56831&#xD;&#xA;23/03/2020Estimate56779&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Show less readings&#xD;&#xA;&#xD;&#xA;Load more readings&#xD;&#xA; &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Meter number: &#xD;&#xA;S08EH19675&#xD;&#xA;&#xD;&#xA;Installed: 5th January 2010&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 15/02/2021 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 65748 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 30/01/2021 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 65748 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/01/2021 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 65530 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/01/2021 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 65497 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/12/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 64486 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/12/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 64455 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 29/11/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 63699 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/11/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 63572 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/10/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 62572 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 26/09/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 61746 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/09/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 61666 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 28/08/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 60965 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 27/08/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 60926 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/08/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 60769 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 30/07/2020 &#xD;&#xA;&#xD;&#xA;Type Actual &#xD;&#xA;&#xD;&#xA;All Units 60181 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 24/07/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 60037 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/07/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 60012 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 27/06/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 59352 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/06/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 59245 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 25/05/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 58464 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/05/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 58411 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/04/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 57613 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 25/03/2020 &#xD;&#xA;&#xD;&#xA;Type Customer &#xD;&#xA;&#xD;&#xA;All Units 56831 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Date 23/03/2020 &#xD;&#xA;&#xD;&#xA;Type Estimate &#xD;&#xA;&#xD;&#xA;All Units 56779 &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Show less readings&#xD;&#xA;&#xD;&#xA;Load more readings" />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Checked">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="pURL" inuse="True">
+            <ProcessValue datatype="text" value="https://portal.my-simplicity.co.uk/meter-readings" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:2310,208,2507,3450" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="MatchReverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <group name="IE">
+        <id>3ac9cec5-5b6f-4c4d-b7cf-79c5f3553fbd</id>
+        <element name="DownloadSave">
+          <id>0813fd2c-cd94-4513-bdc7-565f255f5728</id>
+          <element name="SaveLocationWindow">
+            <id>abf85f3b-d5e9-4780-8024-34766162865c</id>
+            <element name="SaveLocationPath">
+              <id>b31347f0-907c-44e6-8df8-e93605501f17</id>
+              <element name="SaveLocationPathEntry">
+                <id>909db9cf-15ff-474a-aff2-d730ff202daf</id>
+                <type>UIAEdit</type>
+                <basetype>UIAEdit</basetype>
+                <datatype>text</datatype>
+                <diagnose>False</diagnose>
+                <attributes>
+                  <attribute name="uX">
+                    <ProcessValue datatype="number" value="2461" />
+                  </attribute>
+                  <attribute name="uY">
+                    <ProcessValue datatype="number" value="361" />
+                  </attribute>
+                  <attribute name="uWidth">
+                    <ProcessValue datatype="number" value="520" />
+                  </attribute>
+                  <attribute name="uHeight">
+                    <ProcessValue datatype="number" value="15" />
+                  </attribute>
+                  <attribute name="uClassName" inuse="True">
+                    <ProcessValue datatype="text" value="Edit" />
+                  </attribute>
+                  <attribute name="uAutomationId" inuse="True">
+                    <ProcessValue datatype="text" value="41477" />
+                  </attribute>
+                  <attribute name="uControlType" inuse="True">
+                    <ProcessValue datatype="text" value="Edit" />
+                  </attribute>
+                  <attribute name="uLocalizedControlType">
+                    <ProcessValue datatype="text" value="edit" />
+                  </attribute>
+                  <attribute name="uIsPassword">
+                    <ProcessValue datatype="flag" value="False" />
+                  </attribute>
+                  <attribute name="uIsRequiredForForm">
+                    <ProcessValue datatype="flag" value="False" />
+                  </attribute>
+                  <attribute name="uName" inuse="True">
+                    <ProcessValue datatype="text" value="Address" />
+                  </attribute>
+                  <attribute name="uOrientation">
+                    <ProcessValue datatype="text" value="None" />
+                  </attribute>
+                  <attribute name="uItemStatus">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute>
+                  <attribute name="uItemType" inuse="True">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute>
+                  <attribute name="uOffscreen">
+                    <ProcessValue datatype="flag" value="False" />
+                  </attribute>
+                  <attribute name="uTopLevelWindowId" inuse="True">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute>
+                  <attribute name="uLabeledBy">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute>
+                  <attribute name="uEnabled">
+                    <ProcessValue datatype="text" value="True" />
+                  </attribute>
+                  <attribute name="uAcceleratorKey">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute>
+                  <attribute name="uAccessKey">
+                    <ProcessValue datatype="text" value="d" />
+                  </attribute>
+                  <attribute name="uHasKeyboardFocus">
+                    <ProcessValue datatype="text" value="True" />
+                  </attribute>
+                  <attribute name="uHelpText">
+                    <ProcessValue datatype="text" value="" />
+                  </attribute>
+                  <attribute name="uProcessId">
+                    <ProcessValue datatype="text" value="1312" />
+                  </attribute>
+                  <attribute name="puControlType">
+                    <ProcessValue datatype="text" value="ComboBox" />
+                  </attribute>
+                  <attribute name="puLocalizedControlType">
+                    <ProcessValue datatype="text" value="combo box" />
+                  </attribute>
+                  <attribute name="puClassName">
+                    <ProcessValue datatype="text" value="ComboBox" />
+                  </attribute>
+                  <attribute name="puName">
+                    <ProcessValue datatype="text" value="Address" />
+                  </attribute>
+                  <attribute name="puAutomationId">
+                    <ProcessValue datatype="text" value="41477" />
+                  </attribute>
+                  <attribute name="MatchIndex">
+                    <ProcessValue datatype="number" value="1" />
+                  </attribute>
+                </attributes>
+              </element>
+              <type>UIAElement</type>
+              <basetype>UIAElement</basetype>
+              <datatype>text</datatype>
+              <diagnose>False</diagnose>
+              <attributes>
+                <attribute name="uX">
+                  <ProcessValue datatype="number" value="2437" />
+                </attribute>
+                <attribute name="uY">
+                  <ProcessValue datatype="number" value="353" />
+                </attribute>
+                <attribute name="uWidth">
+                  <ProcessValue datatype="number" value="544" />
+                </attribute>
+                <attribute name="uHeight">
+                  <ProcessValue datatype="number" value="30" />
+                </attribute>
+                <attribute name="uClassName" inuse="True">
+                  <ProcessValue datatype="text" value="ToolbarWindow32" />
+                </attribute>
+                <attribute name="uAutomationId" inuse="True">
+                  <ProcessValue datatype="text" value="1001" />
+                </attribute>
+                <attribute name="uControlType" inuse="True">
+                  <ProcessValue datatype="text" value="ToolBar" />
+                </attribute>
+                <attribute name="uLocalizedControlType">
+                  <ProcessValue datatype="text" value="tool bar" />
+                </attribute>
+                <attribute name="uIsPassword">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uIsRequiredForForm">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uName">
+                  <ProcessValue datatype="text" value="Address: Downloads" />
+                </attribute>
+                <attribute name="uOrientation">
+                  <ProcessValue datatype="text" value="None" />
+                </attribute>
+                <attribute name="uItemStatus">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uItemType" inuse="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uOffscreen">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uTopLevelWindowId" inuse="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uLabeledBy">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uEnabled">
+                  <ProcessValue datatype="text" value="True" />
+                </attribute>
+                <attribute name="uAcceleratorKey">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uAccessKey">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uHasKeyboardFocus">
+                  <ProcessValue datatype="text" value="False" />
+                </attribute>
+                <attribute name="uHelpText">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uProcessId">
+                  <ProcessValue datatype="text" value="1312" />
+                </attribute>
+                <attribute name="puControlType">
+                  <ProcessValue datatype="text" value="Pane" />
+                </attribute>
+                <attribute name="puLocalizedControlType">
+                  <ProcessValue datatype="text" value="pane" />
+                </attribute>
+                <attribute name="puClassName" inuse="True">
+                  <ProcessValue datatype="text" value="Breadcrumb Parent" />
+                </attribute>
+                <attribute name="puName">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="puAutomationId">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="MatchIndex">
+                  <ProcessValue datatype="number" value="1" />
+                </attribute>
+              </attributes>
+            </element>
+            <element name="saveFileName">
+              <id>972be9c7-a3c1-486d-bd5a-6552da857bbd</id>
+              <type>UIAEdit</type>
+              <basetype>UIAEdit</basetype>
+              <datatype>text</datatype>
+              <diagnose>False</diagnose>
+              <attributes>
+                <attribute name="uX">
+                  <ProcessValue datatype="number" value="2458" />
+                </attribute>
+                <attribute name="uY">
+                  <ProcessValue datatype="number" value="746" />
+                </attribute>
+                <attribute name="uWidth">
+                  <ProcessValue datatype="number" value="791" />
+                </attribute>
+                <attribute name="uHeight">
+                  <ProcessValue datatype="number" value="17" />
+                </attribute>
+                <attribute name="uClassName" inuse="True">
+                  <ProcessValue datatype="text" value="Edit" />
+                </attribute>
+                <attribute name="uAutomationId" inuse="True">
+                  <ProcessValue datatype="text" value="1001" />
+                </attribute>
+                <attribute name="uControlType" inuse="True">
+                  <ProcessValue datatype="text" value="Edit" />
+                </attribute>
+                <attribute name="uLocalizedControlType">
+                  <ProcessValue datatype="text" value="edit" />
+                </attribute>
+                <attribute name="uIsPassword">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uIsRequiredForForm">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uName" inuse="True">
+                  <ProcessValue datatype="text" value="File name:" />
+                </attribute>
+                <attribute name="uOrientation">
+                  <ProcessValue datatype="text" value="None" />
+                </attribute>
+                <attribute name="uItemStatus">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uItemType" inuse="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uOffscreen">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uTopLevelWindowId" inuse="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uLabeledBy">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uEnabled">
+                  <ProcessValue datatype="text" value="True" />
+                </attribute>
+                <attribute name="uAcceleratorKey">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uAccessKey">
+                  <ProcessValue datatype="text" value="ALT+n" />
+                </attribute>
+                <attribute name="uHasKeyboardFocus">
+                  <ProcessValue datatype="text" value="True" />
+                </attribute>
+                <attribute name="uHelpText">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uProcessId">
+                  <ProcessValue datatype="text" value="1312" />
+                </attribute>
+                <attribute name="puControlType">
+                  <ProcessValue datatype="text" value="ComboBox" />
+                </attribute>
+                <attribute name="puLocalizedControlType">
+                  <ProcessValue datatype="text" value="combo box" />
+                </attribute>
+                <attribute name="puClassName">
+                  <ProcessValue datatype="text" value="AppControlHost" />
+                </attribute>
+                <attribute name="puName">
+                  <ProcessValue datatype="text" value="File name:" />
+                </attribute>
+                <attribute name="puAutomationId">
+                  <ProcessValue datatype="text" value="FileNameControlHost" />
+                </attribute>
+                <attribute name="MatchIndex">
+                  <ProcessValue datatype="number" value="1" />
+                </attribute>
+              </attributes>
+            </element>
+            <type>UIAWindow</type>
+            <basetype>UIAWindow</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="uX">
+                <ProcessValue datatype="number" value="2322" />
+              </attribute>
+              <attribute name="uY">
+                <ProcessValue datatype="number" value="317" />
+              </attribute>
+              <attribute name="uWidth">
+                <ProcessValue datatype="number" value="960" />
+              </attribute>
+              <attribute name="uHeight">
+                <ProcessValue datatype="number" value="540" />
+              </attribute>
+              <attribute name="uClassName" inuse="True">
+                <ProcessValue datatype="text" value="#32770" />
+              </attribute>
+              <attribute name="uAutomationId" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uControlType" inuse="True">
+                <ProcessValue datatype="text" value="Window" />
+              </attribute>
+              <attribute name="uLocalizedControlType">
+                <ProcessValue datatype="text" value="dialog" />
+              </attribute>
+              <attribute name="uIsPassword">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uIsRequiredForForm">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uName" inuse="True">
+                <ProcessValue datatype="text" value="Save As" />
+              </attribute>
+              <attribute name="uOrientation">
+                <ProcessValue datatype="text" value="None" />
+              </attribute>
+              <attribute name="uItemStatus">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uItemType" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uOffscreen">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uTopLevelWindowId" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uLabeledBy">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uEnabled">
+                <ProcessValue datatype="text" value="True" />
+              </attribute>
+              <attribute name="uAcceleratorKey">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uAccessKey">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uHasKeyboardFocus">
+                <ProcessValue datatype="text" value="True" />
+              </attribute>
+              <attribute name="uHelpText">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uProcessId">
+                <ProcessValue datatype="text" value="1312" />
+              </attribute>
+              <attribute name="puControlType">
+                <ProcessValue datatype="text" value="Pane" />
+              </attribute>
+              <attribute name="puLocalizedControlType">
+                <ProcessValue datatype="text" value="pane" />
+              </attribute>
+              <attribute name="puClassName">
+                <ProcessValue datatype="text" value="#32769" />
+              </attribute>
+              <attribute name="puName">
+                <ProcessValue datatype="text" value="Desktop 1" />
+              </attribute>
+              <attribute name="puAutomationId">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="MatchIndex">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+            </attributes>
+          </element>
+          <element name="btnSave">
+            <id>f407e8f5-b080-4c66-8188-70088163a8ab</id>
+            <type>UIAButton</type>
+            <basetype>UIAButton</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="uX">
+                <ProcessValue datatype="number" value="3069" />
+              </attribute>
+              <attribute name="uY">
+                <ProcessValue datatype="number" value="811" />
+              </attribute>
+              <attribute name="uWidth">
+                <ProcessValue datatype="number" value="88" />
+              </attribute>
+              <attribute name="uHeight">
+                <ProcessValue datatype="number" value="26" />
+              </attribute>
+              <attribute name="uClassName" inuse="True">
+                <ProcessValue datatype="text" value="Button" />
+              </attribute>
+              <attribute name="uAutomationId" inuse="True">
+                <ProcessValue datatype="text" value="1" />
+              </attribute>
+              <attribute name="uControlType" inuse="True">
+                <ProcessValue datatype="text" value="Button" />
+              </attribute>
+              <attribute name="uLocalizedControlType">
+                <ProcessValue datatype="text" value="button" />
+              </attribute>
+              <attribute name="uIsPassword">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uIsRequiredForForm">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uName" inuse="True">
+                <ProcessValue datatype="text" value="Save" />
+              </attribute>
+              <attribute name="uOrientation">
+                <ProcessValue datatype="text" value="None" />
+              </attribute>
+              <attribute name="uItemStatus">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uItemType" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uOffscreen">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uTopLevelWindowId" inuse="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uLabeledBy">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uEnabled">
+                <ProcessValue datatype="text" value="True" />
+              </attribute>
+              <attribute name="uAcceleratorKey">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uAccessKey">
+                <ProcessValue datatype="text" value="Alt+s" />
+              </attribute>
+              <attribute name="uHasKeyboardFocus">
+                <ProcessValue datatype="text" value="False" />
+              </attribute>
+              <attribute name="uHelpText">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uProcessId">
+                <ProcessValue datatype="text" value="1312" />
+              </attribute>
+              <attribute name="puControlType">
+                <ProcessValue datatype="text" value="Window" />
+              </attribute>
+              <attribute name="puLocalizedControlType">
+                <ProcessValue datatype="text" value="dialog" />
+              </attribute>
+              <attribute name="puClassName">
+                <ProcessValue datatype="text" value="#32770" />
+              </attribute>
+              <attribute name="puName">
+                <ProcessValue datatype="text" value="Save As" />
+              </attribute>
+              <attribute name="puAutomationId">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="MatchIndex">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+            </attributes>
+          </element>
+          <type>UIAButton</type>
+          <basetype>UIAButton</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="uX">
+              <ProcessValue datatype="number" value="3229" />
+            </attribute>
+            <attribute name="uY">
+              <ProcessValue datatype="number" value="1005" />
+            </attribute>
+            <attribute name="uWidth">
+              <ProcessValue datatype="number" value="18" />
+            </attribute>
+            <attribute name="uHeight">
+              <ProcessValue datatype="number" value="25" />
+            </attribute>
+            <attribute name="uClassName" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAutomationId" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uControlType" inuse="True">
+              <ProcessValue datatype="text" value="SplitButton" />
+            </attribute>
+            <attribute name="uLocalizedControlType">
+              <ProcessValue datatype="text" value="split button" />
+            </attribute>
+            <attribute name="uIsPassword">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uIsRequiredForForm">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uName" inuse="True">
+              <ProcessValue datatype="text" value="6" />
+            </attribute>
+            <attribute name="uOrientation">
+              <ProcessValue datatype="text" value="None" />
+            </attribute>
+            <attribute name="uItemStatus">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uItemType" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uOffscreen">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uTopLevelWindowId" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uLabeledBy">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uEnabled">
+              <ProcessValue datatype="text" value="True" />
+            </attribute>
+            <attribute name="uAcceleratorKey">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAccessKey">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uHasKeyboardFocus">
+              <ProcessValue datatype="text" value="False" />
+            </attribute>
+            <attribute name="uHelpText">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uProcessId">
+              <ProcessValue datatype="text" value="1312" />
+            </attribute>
+            <attribute name="puControlType">
+              <ProcessValue datatype="text" value="SplitButton" />
+            </attribute>
+            <attribute name="puLocalizedControlType">
+              <ProcessValue datatype="text" value="split button" />
+            </attribute>
+            <attribute name="puClassName">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="puName">
+              <ProcessValue datatype="text" value="Save" />
+            </attribute>
+            <attribute name="puAutomationId">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+          </attributes>
+        </element>
+        <element name="DownloadBar">
+          <id>1f7e9627-0d31-4903-8406-3d39561c4593</id>
+          <type>UIAElement</type>
+          <basetype>UIAElement</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="uX">
+              <ProcessValue datatype="number" value="2400" />
+            </attribute>
+            <attribute name="uY">
+              <ProcessValue datatype="number" value="990" />
+            </attribute>
+            <attribute name="uWidth">
+              <ProcessValue datatype="number" value="960" />
+            </attribute>
+            <attribute name="uHeight">
+              <ProcessValue datatype="number" value="50" />
+            </attribute>
+            <attribute name="uClassName" inuse="True">
+              <ProcessValue datatype="text" value="DirectUIHWND" />
+            </attribute>
+            <attribute name="uAutomationId" inuse="True">
+              <ProcessValue datatype="text" value="IENotificationBar" />
+            </attribute>
+            <attribute name="uControlType" inuse="True">
+              <ProcessValue datatype="text" value="ToolBar" />
+            </attribute>
+            <attribute name="uLocalizedControlType">
+              <ProcessValue datatype="text" value="tool bar" />
+            </attribute>
+            <attribute name="uIsPassword">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uIsRequiredForForm">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uName" inuse="True">
+              <ProcessValue datatype="text" value="Notification" />
+            </attribute>
+            <attribute name="uOrientation">
+              <ProcessValue datatype="text" value="None" />
+            </attribute>
+            <attribute name="uItemStatus">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uItemType" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uOffscreen">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uTopLevelWindowId" inuse="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uLabeledBy">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uEnabled">
+              <ProcessValue datatype="text" value="True" />
+            </attribute>
+            <attribute name="uAcceleratorKey">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAccessKey">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uHasKeyboardFocus">
+              <ProcessValue datatype="text" value="False" />
+            </attribute>
+            <attribute name="uHelpText">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uProcessId">
+              <ProcessValue datatype="text" value="1312" />
+            </attribute>
+            <attribute name="puControlType">
+              <ProcessValue datatype="text" value="Pane" />
+            </attribute>
+            <attribute name="puLocalizedControlType">
+              <ProcessValue datatype="text" value="pane" />
+            </attribute>
+            <attribute name="puClassName">
+              <ProcessValue datatype="text" value="Frame Notification Bar" />
+            </attribute>
+            <attribute name="puName">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="puAutomationId">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="MatchIndex">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+          </attributes>
+        </element>
+      </group>
+      <type>Application</type>
+      <basetype>Application</basetype>
+      <datatype>unknown</datatype>
+      <diagnose>False</diagnose>
+    </element>
+    <apptypeinfo>
+      <id>HTMLLaunch</id>
+      <parameters>
+        <parameter>
+          <name>Path</name>
+          <value>C:\Program Files\Internet Explorer\iexplore.exe</value>
+        </parameter>
+        <parameter>
+          <name>CommandLineParams</name>
+          <value>https://portal.my-simplicity.co.uk/</value>
+        </parameter>
+        <parameter>
+          <name>ActiveTabOnly</name>
+          <value>True</value>
+        </parameter>
+        <parameter>
+          <name>UseJavaInBrowser</name>
+          <value>False</value>
+        </parameter>
+        <parameter>
+          <name>ExcludeHTC</name>
+          <value>True</value>
+        </parameter>
+        <parameter>
+          <name>ProcessMode</name>
+          <value>Internal</value>
+        </parameter>
+        <parameter>
+          <name>ExternalProcessTimeout</name>
+          <value>0</value>
+        </parameter>
+      </parameters>
+    </apptypeinfo>
+  </appdef>
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <subsheet subsheetid="49c07615-123d-4674-918a-a616eef2f0f1" type="CleanUp" published="True">
+    <name>Clean Up</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="c7a77f0d-2a2e-48ee-bca2-812ff4a09bc7" type="Normal" published="False">
+    <name>Action 1</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="6af03fa7-7522-482e-8d0b-2bdbd7a69fca" type="Normal" published="False">
+    <name>Login</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>105</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="404999d3-b7ed-4591-9028-9043df5a8c72" type="Normal" published="False">
+    <name>Invoices</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>471</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="744e8812-0196-464e-86a2-1eda7d3704ed" type="Normal" published="False">
+    <name>Download Invoices</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>84</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e" type="Normal" published="False">
+    <name>Meter Readings</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>577</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <stage stageid="30513782-f0e9-41c6-a0e1-f2f193ffd3f9" name="Start" type="Start">
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>c3946fb3-84ff-4ae1-8182-a7cd2d2680db</onsuccess>
+  </stage>
+  <stage stageid="c3946fb3-84ff-4ae1-8182-a7cd2d2680db" name="End" type="End">
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="e049096b-3d8e-4329-bd81-e728a99116d5" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-105" w="150" h="90" />
+    <references>
+      <reference>System.dll</reference>
+      <reference>System.Data.dll</reference>
+      <reference>System.Xml.dll</reference>
+      <reference>System.Drawing.dll</reference>
+    </references>
+    <imports>
+      <import>System</import>
+      <import>System.Drawing</import>
+      <import>System.Data</import>
+    </imports>
+    <language>visualbasic</language>
+    <globalcode><![CDATA[]]></globalcode>
+    <code><![CDATA[]]></code>
+  </stage>
+  <stage stageid="63c34614-06cd-4748-a380-669677291a41" name="Clean Up" type="SubSheetInfo">
+    <subsheetid>49c07615-123d-4674-918a-a616eef2f0f1</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="281f2da9-8b8b-40d5-84af-f2024a64c394" name="Start" type="Start">
+    <subsheetid>49c07615-123d-4674-918a-a616eef2f0f1</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>ac9e6bbe-437a-43be-b145-16e586b02c76</onsuccess>
+  </stage>
+  <stage stageid="ac9e6bbe-437a-43be-b145-16e586b02c76" name="End" type="End">
+    <subsheetid>49c07615-123d-4674-918a-a616eef2f0f1</subsheetid>
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="ba44ec45-0b2a-43c9-addc-c42d3a8fd1e8" name="Action 1" type="SubSheetInfo">
+    <subsheetid>c7a77f0d-2a2e-48ee-bca2-812ff4a09bc7</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="6ac2adbb-9f21-4e22-a204-03d4fd5661aa" name="Start" type="Start">
+    <subsheetid>c7a77f0d-2a2e-48ee-bca2-812ff4a09bc7</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+  </stage>
+  <stage stageid="cb8f38b0-e553-4932-a026-0866aba2c86d" name="End" type="End">
+    <subsheetid>c7a77f0d-2a2e-48ee-bca2-812ff4a09bc7</subsheetid>
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="280b1c33-f0e6-4d5b-b18d-fb873b1be246" name="" type="Note">
+    <subsheetid>49c07615-123d-4674-918a-a616eef2f0f1</subsheetid>
+    <narrative>Clean Up Page
+
+This is an optional page where you might choose to perform some finalisation (or "cleanup") tasks as your business object is closed down.
+
+The cleanup action will be called automatically immediately after closing your business object at the end of a business process.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than before the disposal of the business object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="501627ed-63bd-4698-80e4-2f82881d6fb2" name="" type="Note">
+    <narrative>Initialise Page
+
+This is an optional page where you might choose to perform some initialisation tasks after your business object is loaded.
+
+The initialise action will be called automatically immediately after loading your business object.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than after the creation of the object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="f0a9e2e7-9a29-489e-869d-86119bbe5c2b" name="Email" type="Data">
+    <loginhibit />
+    <display x="195" y="-60" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <alwaysinit />
+  </stage>
+  <stage stageid="17c263a1-bb4d-4768-a65d-cb2282bc567c" name="Password" type="Data">
+    <loginhibit />
+    <display x="195" y="-15" />
+    <datatype>password</datatype>
+    <initialvalueenc>
+    </initialvalueenc>
+    <alwaysinit />
+  </stage>
+  <stage stageid="f93cd74a-5032-4057-894c-b62cc884e086" name="Login" type="SubSheetInfo">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="7188f10e-2d7c-4d17-ace9-1befd75a477b" name="Start" type="Start">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>112e2738-9590-4cf9-9350-0e825cbc369d</onsuccess>
+  </stage>
+  <stage stageid="ba1ebd0f-4450-4352-90a7-9ae3a56ffc36" name="End" type="End">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="150" y="300" />
+  </stage>
+  <stage stageid="112e2738-9590-4cf9-9350-0e825cbc369d" name="Launch" type="Navigate">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="15" y="-45" />
+    <onsuccess>5e164cfc-84b2-4e4c-bc6b-d07e71688b62</onsuccess>
+    <step>
+      <element id="ecfb41c6-7141-4f61-8769-2daa397af898" />
+      <action>
+        <id>Launch</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="a42ed519-edf9-4ade-a706-b73ff02ef3d7" name="Time Out1" type="WaitEnd">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="210" y="15" w="30" h="30" />
+    <groupid>54199172-28dc-4548-a618-af4d10fdc51e</groupid>
+  </stage>
+  <stage stageid="5e164cfc-84b2-4e4c-bc6b-d07e71688b62" name="Wait1" type="WaitStart">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="15" y="15" w="30" h="30" />
+    <groupid>54199172-28dc-4548-a618-af4d10fdc51e</groupid>
+    <choices>
+      <choice reply="True">
+        <name>Login Root Check Exists</name>
+        <distance>75</distance>
+        <ontrue>424d5dad-aa0a-4e56-8695-c2af89e5102e</ontrue>
+        <element id="80a625e5-0f81-401d-8104-121848db5646" />
+        <condition>
+          <id>CheckExists</id>
+          <arguments>
+            <argument>
+              <id>trackingid</id>
+              <value>
+              </value>
+            </argument>
+          </arguments>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>30</timeout>
+  </stage>
+  <stage stageid="424d5dad-aa0a-4e56-8695-c2af89e5102e" name="Enter login information" type="Write">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="90" y="60" />
+    <onsuccess>093f6053-7beb-4986-b1f8-8e20e7aff616</onsuccess>
+    <step expr="[Email]">
+      <element id="580d2ccd-4c78-469d-a732-1f4c1c4c0edf" />
+    </step>
+    <step expr="[Password]">
+      <element id="b4247c04-5881-44f4-807f-92abc39b6270" />
+    </step>
+  </stage>
+  <stage stageid="5f2055ee-5ee7-471f-99f8-40e509a9c745" name="Time Out - Delay" type="WaitEnd">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="150" y="120" w="30" h="30" />
+    <onsuccess>6080b719-8463-4c62-a4e7-75f2a51c4220</onsuccess>
+    <groupid>50ee7d59-53ef-4e27-a756-04f8e9c755d4</groupid>
+  </stage>
+  <stage stageid="093f6053-7beb-4986-b1f8-8e20e7aff616" name="Delay" type="WaitStart">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="90" y="120" w="30" h="30" />
+    <groupid>50ee7d59-53ef-4e27-a756-04f8e9c755d4</groupid>
+    <choices />
+    <timeout>0.5</timeout>
+  </stage>
+  <stage stageid="6080b719-8463-4c62-a4e7-75f2a51c4220" name="Login" type="Navigate">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="150" y="180" />
+    <onsuccess>437adac5-d1b0-4b38-b86b-5131bf1b9950</onsuccess>
+    <step>
+      <element id="8768e3b6-6c61-4b65-9622-890e87e726c2" />
+      <action>
+        <id>HTMLClickCentre</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="d8c30971-a00d-4dd7-ab36-8c261fae102d" name="Invoices" type="SubSheetInfo">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="beb7cda3-9c25-4919-ac81-b57cd9f74ded" name="Start" type="Start">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>0aa09ab2-c185-4369-84d9-40a8b63a78cb</onsuccess>
+  </stage>
+  <stage stageid="f857425a-7a80-40f0-b82e-354ff7b2213e" name="End" type="End">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="270" y="915" />
+  </stage>
+  <stage stageid="685e474f-f43d-4e96-8efa-d711e9290a73" name="Time Out2" type="WaitEnd">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="210" y="-45" w="30" h="30" />
+    <groupid>3ba8828c-20e7-4cc2-94c5-02da34d1aa79</groupid>
+  </stage>
+  <stage stageid="0aa09ab2-c185-4369-84d9-40a8b63a78cb" name="Wait2" type="WaitStart">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="15" y="-45" w="30" h="30" />
+    <groupid>3ba8828c-20e7-4cc2-94c5-02da34d1aa79</groupid>
+    <choices>
+      <choice reply="True">
+        <name>linkViewInvoices Check Exists</name>
+        <distance>60</distance>
+        <ontrue>e0b54383-4199-4e6c-aaac-765108a9b466</ontrue>
+        <element id="f39aaaf9-eb79-4c80-97fa-4597c2a4c36f" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="e0b54383-4199-4e6c-aaac-765108a9b466" name="Navigate1" type="Navigate">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="75" y="0" />
+    <onsuccess>68c517d8-64af-4fb4-ae22-f4556274aeba</onsuccess>
+    <step>
+      <element id="f39aaaf9-eb79-4c80-97fa-4597c2a4c36f" />
+      <action>
+        <id>HTMLClickCentre</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="45f15d7f-39b3-4147-a458-b7d2683b26ac" name="Time Out3" type="WaitEnd">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="255" y="60" w="30" h="30" />
+    <groupid>9a008b56-6d6c-4ac8-beda-6d753b4088ea</groupid>
+  </stage>
+  <stage stageid="68c517d8-64af-4fb4-ae22-f4556274aeba" name="Wait3" type="WaitStart">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="75" y="60" w="30" h="30" />
+    <groupid>9a008b56-6d6c-4ac8-beda-6d753b4088ea</groupid>
+    <choices>
+      <choice reply="True">
+        <name>bills section Check Exists</name>
+        <distance>60</distance>
+        <ontrue>e0d8255e-52e0-4767-8681-37bb90c25993</ontrue>
+        <element id="611c36c0-75ee-40d3-8111-3d2b19fc9938" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="12458a33-adf8-4710-a146-81a37e5e248f" name="Time Out4" type="WaitEnd">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="315" y="105" w="30" h="30" />
+    <groupid>338deb09-2c76-4226-878f-a1c7be474927</groupid>
+  </stage>
+  <stage stageid="e0d8255e-52e0-4767-8681-37bb90c25993" name="Wait4" type="WaitStart">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="135" y="105" w="30" h="30" />
+    <groupid>338deb09-2c76-4226-878f-a1c7be474927</groupid>
+    <choices>
+      <choice reply="True">
+        <name>btnLoadmore Check Exists</name>
+        <distance>60</distance>
+        <ontrue>66877208-b53f-4716-9859-06fe589bb81a</ontrue>
+        <element id="2f5c2a9c-2a80-4a2c-9e07-61496d0a3efc" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="4f2d2a7a-411b-44be-bfc2-2c96b7c891fc" name="Time Out5" type="WaitEnd">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="345" y="150" w="30" h="30" />
+    <groupid>88c77ce1-1172-4b88-926a-3875b97ae56e</groupid>
+  </stage>
+  <stage stageid="66877208-b53f-4716-9859-06fe589bb81a" name="Wait5" type="WaitStart">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="195" y="150" w="30" h="30" />
+    <groupid>88c77ce1-1172-4b88-926a-3875b97ae56e</groupid>
+    <choices>
+      <choice reply="True">
+        <name>tableBills Check Exists</name>
+        <distance>75</distance>
+        <ontrue>df565750-54dd-4484-aa0d-6da1db430486</ontrue>
+        <element id="98df60fe-de7f-4c27-af92-20d6e9e9fb42" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="a142c757-392c-4160-9e5a-48b216031946" name="Reader1" type="Read">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="270" y="255" />
+    <onsuccess>7ab046d2-2ba5-4e13-acc6-759ca5a144fc</onsuccess>
+    <step stage="Value from tableBills">
+      <element id="98df60fe-de7f-4c27-af92-20d6e9e9fb42" />
+      <action>
+        <id>HTMLGetTable</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="8dc74bc6-bdb6-4bdc-988a-1b377ce24e39" name="Value from tableBills" type="Collection">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <display x="435" y="195" />
+    <datatype>collection</datatype>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="437adac5-d1b0-4b38-b86b-5131bf1b9950" name="Invoices" type="SubSheet">
+    <subsheetid>6af03fa7-7522-482e-8d0b-2bdbd7a69fca</subsheetid>
+    <loginhibit />
+    <display x="150" y="240" />
+    <onsuccess>ba1ebd0f-4450-4352-90a7-9ae3a56ffc36</onsuccess>
+    <processid>404999d3-b7ed-4591-9028-9043df5a8c72</processid>
+  </stage>
+  <stage stageid="df565750-54dd-4484-aa0d-6da1db430486" name="Navigate2" type="Navigate">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="270" y="195" />
+    <onsuccess>a142c757-392c-4160-9e5a-48b216031946</onsuccess>
+    <step>
+      <element id="2f5c2a9c-2a80-4a2c-9e07-61496d0a3efc" />
+      <action>
+        <id>HTMLClickCentre</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="cdb9eb24-c002-486a-8113-cc1112234e82" name="Download Invoices" type="SubSheetInfo">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="b37b4376-01e4-455c-a556-1b088d428404" name="Start" type="Start">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <inputs>
+      <input type="collection" name="availableInvoices" stage="availableInvoices" />
+    </inputs>
+    <onsuccess>3dce6368-3552-4259-a539-532e8137a8a0</onsuccess>
+  </stage>
+  <stage stageid="4ecc30f9-87ce-4af8-9c86-b5575e71e305" name="End" type="End">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="135" y="405" />
+  </stage>
+  <stage stageid="7ab046d2-2ba5-4e13-acc6-759ca5a144fc" name="Utility - Collection Manipulation::Filter Collection" type="Action">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="270" y="315" />
+    <inputs>
+      <input type="collection" name="Collection In" friendlyname="Collection In" narrative="The collection to filter." expr="[Value from tableBills]" />
+      <input type="text" name="Filter" friendlyname="Filter" narrative="The filter query." expr="&quot;Column5 &gt;= 'View'&quot;" />
+    </inputs>
+    <outputs>
+      <output type="collection" name="Collection Out" friendlyname="Collection Out" narrative="The filtered collection." stage="invoicesAvailable" />
+    </outputs>
+    <onsuccess>322f147e-d022-4ac0-80eb-64ab1f685840</onsuccess>
+    <resource object="Utility - Collection Manipulation" action="Filter Collection" />
+  </stage>
+  <stage stageid="19869b6e-2d15-4585-a55d-453ba71fea41" name="invoicesAvailable" type="Collection">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <display x="435" y="315" />
+    <datatype>collection</datatype>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="49293b57-be24-47cc-9d8a-ad24d9c4815c" name="Download Invoices" type="SubSheet">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="270" y="735" />
+    <inputs>
+      <input type="collection" name="availableInvoices" friendlyname="availableInvoices" expr="[invoicesAvailable]" />
+    </inputs>
+    <onsuccess>18edbc74-cbe0-464c-88b1-f19f0bdbf8d0</onsuccess>
+    <processid>744e8812-0196-464e-86a2-1eda7d3704ed</processid>
+  </stage>
+  <stage stageid="a6cf9d2d-9bbd-4e9d-a218-871e9686cd43" name="availableInvoices" type="Collection">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <display x="120" y="-105" />
+    <datatype>collection</datatype>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="8d0c1f1d-8808-4034-a948-86a97e97b0f0" name="intNo" type="Data">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="120" y="-45" />
+    <datatype>number</datatype>
+    <initialvalue>2</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="3dce6368-3552-4259-a539-532e8137a8a0" name="Loop Start1" type="LoopStart">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="15" y="-45" />
+    <onsuccess>5a731a69-cada-407f-8496-3f3cf747efbf</onsuccess>
+    <groupid>885664d1-eda7-4280-b4ce-49a9c192a388</groupid>
+    <looptype>ForEach</looptype>
+    <loopdata>availableInvoices</loopdata>
+  </stage>
+  <stage stageid="4fe89cd9-9f34-4b34-b419-8f923575dc07" name="Loop End1" type="LoopEnd">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="135" y="345" />
+    <onsuccess>4ecc30f9-87ce-4af8-9c86-b5575e71e305</onsuccess>
+    <groupid>885664d1-eda7-4280-b4ce-49a9c192a388</groupid>
+  </stage>
+  <stage stageid="5a731a69-cada-407f-8496-3f3cf747efbf" name="download" type="Navigate">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="15" y="15" />
+    <onsuccess>ffc2dd70-b4ec-4442-81ca-a8f6e28ce5b1</onsuccess>
+    <step>
+      <element id="ecfb41c6-7141-4f61-8769-2daa397af898" />
+      <action>
+        <id>HTMLNavigate</id>
+        <arguments>
+          <argument>
+            <id>NewText</id>
+            <value>"https://portal.my-simplicity.co.uk/index.php?route=extension/module/dyball/view_invoice&amp;invno=" &amp; [intNo] &amp; "&amp;fuel=D"</value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="094f54c6-7ba4-47d9-9c52-1877be24120d" name="Time Out6" type="WaitEnd">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="180" y="75" w="30" h="30" />
+    <groupid>bb02b9c1-d757-4691-986e-336bd5b2d93e</groupid>
+  </stage>
+  <stage stageid="ffc2dd70-b4ec-4442-81ca-a8f6e28ce5b1" name="Wait6" type="WaitStart">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="15" y="75" w="30" h="30" />
+    <groupid>bb02b9c1-d757-4691-986e-336bd5b2d93e</groupid>
+    <choices>
+      <choice reply="True">
+        <name>DownloadBar Check Exists</name>
+        <distance>60</distance>
+        <ontrue>726bc949-8735-4777-b5e4-5a6c1d9fe215</ontrue>
+        <element id="1f7e9627-0d31-4903-8406-3d39561c4593" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>30</timeout>
+  </stage>
+  <stage stageid="726bc949-8735-4777-b5e4-5a6c1d9fe215" name="Click Save As" type="Navigate" interval="0.1">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="75" y="120" />
+    <onsuccess>5b7e1db9-49b5-4b11-aa9a-f67bb92bf9f4</onsuccess>
+    <step>
+      <element id="0813fd2c-cd94-4513-bdc7-565f255f5728" />
+      <action>
+        <id>UIAButtonPress</id>
+      </action>
+    </step>
+    <step>
+      <element id="ecfb41c6-7141-4f61-8769-2daa397af898" />
+      <action>
+        <id>SendKeyEvents</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>"{DOWN}{ENTER}"</value>
+          </argument>
+          <argument>
+            <id>interval</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="84505a0b-66d8-40fa-981e-c6df6872cdb4" name="Time Out7" type="WaitEnd">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="240" y="180" w="30" h="30" />
+    <groupid>57e96be5-4ef2-4dab-a005-80a158b552b5</groupid>
+  </stage>
+  <stage stageid="5b7e1db9-49b5-4b11-aa9a-f67bb92bf9f4" name="Wait7" type="WaitStart">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="75" y="180" w="30" h="30" />
+    <groupid>57e96be5-4ef2-4dab-a005-80a158b552b5</groupid>
+    <choices>
+      <choice reply="True">
+        <name>SaveLocationWindow Check Exists</name>
+        <distance>60</distance>
+        <ontrue>3197b02c-9bfc-4729-896f-117597ab7d98</ontrue>
+        <element id="abf85f3b-d5e9-4780-8024-34766162865c" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="3197b02c-9bfc-4729-896f-117597ab7d98" name="Click Save Location Bar" type="Navigate">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="135" y="225" />
+    <onsuccess>289b5ebd-4098-4ff1-be9f-d1881fe26071</onsuccess>
+    <step>
+      <element id="abf85f3b-d5e9-4780-8024-34766162865c" />
+      <action>
+        <id>UIAFocus</id>
+      </action>
+    </step>
+    <step>
+      <element id="b31347f0-907c-44e6-8df8-e93605501f17" />
+      <action>
+        <id>UIAClickCentre</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+    <step>
+      <element id="909db9cf-15ff-474a-aff2-d730ff202daf" />
+      <action>
+        <id>UIASendKeys</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>[Save Location]</value>
+          </argument>
+          <argument>
+            <id>interval</id>
+            <value>0.01</value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+    <step>
+      <element id="909db9cf-15ff-474a-aff2-d730ff202daf" />
+      <action>
+        <id>UIASendKeys</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>"{ENTER}"</value>
+          </argument>
+          <argument>
+            <id>interval</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+    <step>
+      <element id="972be9c7-a3c1-486d-bd5a-6552da857bbd" />
+      <action>
+        <id>UIAClickCentre</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+    <step>
+      <element id="972be9c7-a3c1-486d-bd5a-6552da857bbd" />
+      <action>
+        <id>UIASendKeys</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>"{BACKSPACE}"</value>
+          </argument>
+          <argument>
+            <id>interval</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+    <step>
+      <element id="972be9c7-a3c1-486d-bd5a-6552da857bbd" />
+      <action>
+        <id>UIASendKeys</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>"invoice-" &amp; [intNo] &amp; ".pdf"</value>
+          </argument>
+          <argument>
+            <id>interval</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+    <step>
+      <element id="f407e8f5-b080-4c66-8188-70088163a8ab" />
+      <action>
+        <id>UIAClickCentre</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="289b5ebd-4098-4ff1-be9f-d1881fe26071" name="intNo++" type="Calculation">
+    <subsheetid>744e8812-0196-464e-86a2-1eda7d3704ed</subsheetid>
+    <loginhibit />
+    <display x="135" y="285" />
+    <onsuccess>4fe89cd9-9f34-4b34-b419-8f923575dc07</onsuccess>
+    <calculation expression="[intNo]+1" stage="intNo" />
+  </stage>
+  <stage stageid="18edbc74-cbe0-464c-88b1-f19f0bdbf8d0" name="Click meter readings button" type="Navigate">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="270" y="795" />
+    <onsuccess>f28408b8-bb8f-4b40-b844-0c855b3f09ae</onsuccess>
+    <step>
+      <element id="9d0ff026-8079-415f-b2b3-5a0dcf28e8bd" />
+      <action>
+        <id>HTMLClickCentre</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="20ac5e63-5610-4ef9-aae3-78ab71080357" name="Meter Readings" type="SubSheetInfo">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="54067fb5-e230-4a45-b6d5-2e95149a15a7" name="Start" type="Start">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>caf32769-5ecd-4da1-a87f-11343ee707ec</onsuccess>
+  </stage>
+  <stage stageid="586957ea-955e-42de-a5b9-5d49619ba40d" name="End" type="End">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="255" y="855" />
+  </stage>
+  <stage stageid="f28408b8-bb8f-4b40-b844-0c855b3f09ae" name="Meter Readings" type="SubSheet">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit />
+    <display x="270" y="855" />
+    <onsuccess>f857425a-7a80-40f0-b82e-354ff7b2213e</onsuccess>
+    <processid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</processid>
+  </stage>
+  <stage stageid="d74fb4a5-da67-41ee-a022-28ba98bcb1ec" name="Time Out8" type="WaitEnd">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="225" y="-45" w="30" h="30" />
+    <groupid>6c5fac49-0611-4131-ac34-53b4a4821a56</groupid>
+  </stage>
+  <stage stageid="caf32769-5ecd-4da1-a87f-11343ee707ec" name="Wait8" type="WaitStart">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="15" y="-45" w="30" h="30" />
+    <groupid>6c5fac49-0611-4131-ac34-53b4a4821a56</groupid>
+    <choices>
+      <choice reply="True">
+        <name>readings section Check Exists</name>
+        <distance>60</distance>
+        <ontrue>97de749f-3074-4f6a-9bd3-7b74370e3a57</ontrue>
+        <element id="471f95c8-d540-46c1-bc77-6acc79f4bf7b" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="3f449c4f-6a68-43a4-b562-1552c5803df3" name="Time Out9" type="WaitEnd">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="225" y="0" w="30" h="30" />
+    <groupid>5d8cc95c-477c-4083-a468-deac798fb0eb</groupid>
+  </stage>
+  <stage stageid="97de749f-3074-4f6a-9bd3-7b74370e3a57" name="Wait9" type="WaitStart">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="75" y="0" w="30" h="30" />
+    <groupid>5d8cc95c-477c-4083-a468-deac798fb0eb</groupid>
+    <choices>
+      <choice reply="True">
+        <name>sectionGasMeter Check Exists</name>
+        <distance>60</distance>
+        <ontrue>0be19c79-3054-48c8-80f0-d41e291c6d95</ontrue>
+        <element id="a1409454-e123-4f00-b1bf-9efaf88f05cb" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="cf81f317-5f60-4aa5-969d-1c23272defe1" name="Time Out10" type="WaitEnd">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="315" y="45" w="30" h="30" />
+    <groupid>83f782e8-87f4-423a-bc71-e10c37a993d5</groupid>
+  </stage>
+  <stage stageid="0be19c79-3054-48c8-80f0-d41e291c6d95" name="Wait10" type="WaitStart">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="135" y="45" w="30" h="30" />
+    <groupid>83f782e8-87f4-423a-bc71-e10c37a993d5</groupid>
+    <choices>
+      <choice reply="True">
+        <name>sectionElecMeter Check Exists</name>
+        <distance>60</distance>
+        <ontrue>867eb04d-52c6-4a22-9591-da5c29cde706</ontrue>
+        <element id="8862a77f-bd53-4b45-8ad2-0c36c69e237d" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="6ee228a2-17db-4d40-bafe-46585f24b65e" name="Time Out11" type="WaitEnd">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="360" y="90" w="30" h="30" />
+    <groupid>4e325fcf-c792-4082-afb3-0bcdbc570883</groupid>
+  </stage>
+  <stage stageid="867eb04d-52c6-4a22-9591-da5c29cde706" name="Wait11" type="WaitStart">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="195" y="90" w="30" h="30" />
+    <groupid>4e325fcf-c792-4082-afb3-0bcdbc570883</groupid>
+    <choices>
+      <choice reply="True">
+        <name>btnLoadMoreGas Check Exists</name>
+        <distance>60</distance>
+        <ontrue>fedf1a6d-dbb2-4195-8a7a-9df1505ba70b</ontrue>
+        <element id="bed94229-eda0-4209-a885-415fcc47bad0" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="fedf1a6d-dbb2-4195-8a7a-9df1505ba70b" name="Navigate3" type="Navigate">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="255" y="135" />
+    <onsuccess>435090d3-d0d4-4d62-860f-ff423508bf6b</onsuccess>
+    <step>
+      <element id="bed94229-eda0-4209-a885-415fcc47bad0" />
+      <action>
+        <id>HTMLClickCentre</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="435090d3-d0d4-4d62-860f-ff423508bf6b" name="Reader2" type="Read">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="255" y="195" />
+    <onsuccess>7902f84a-392c-4126-a136-73c9ac6467f7</onsuccess>
+    <step stage="Value from tableGasReadings">
+      <element id="f26ec8c5-d7e1-4dd2-8c26-7d1b36023305" />
+      <action>
+        <id>HTMLGetTable</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="9013897d-5cab-4b30-b831-26401494b915" name="Value from tableGasReadings" type="Collection">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <display x="420" y="195" />
+    <datatype>collection</datatype>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="7902f84a-392c-4126-a136-73c9ac6467f7" name="Navigate4" type="Navigate">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="255" y="255" />
+    <onsuccess>6ec1d646-608d-441a-98d7-a31f2f8be5c1</onsuccess>
+    <step>
+      <element id="8432ca3b-f7d5-4a05-87d4-3884adbc8be5" />
+      <action>
+        <id>HTMLClickCentre</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="6ec1d646-608d-441a-98d7-a31f2f8be5c1" name="Reader3" type="Read">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit />
+    <display x="255" y="315" />
+    <onsuccess>b702158f-2fa9-41f3-b174-4eedc99df826</onsuccess>
+    <step stage="Value from tableElecReadings">
+      <element id="31c5f8d3-1214-469b-a266-5b1d4ef604d2" />
+      <action>
+        <id>HTMLGetTable</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="18259f34-0d69-4e45-817f-8296cb5ae2c0" name="Value from tableElecReadings" type="Collection">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <display x="420" y="315" />
+    <datatype>collection</datatype>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="b702158f-2fa9-41f3-b174-4eedc99df826" name="MS Excel VBO Extended::Create Instance" type="Action">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="255" y="375" />
+    <inputs>
+      <input type="flag" name="Enable Events" friendlyname="Enable Events" narrative="Flag to indicate that events should be enabled / disabled on the attached instance - defaulted to True" expr="True" />
+    </inputs>
+    <outputs>
+      <output type="number" name="handle" friendlyname="handle" narrative="An integer which can be used to identify the created instance in subsequent actions" stage="handle" />
+    </outputs>
+    <onsuccess>f3d1fdcc-90c3-46bd-b8ff-5562cf15880b</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Create Instance" />
+  </stage>
+  <stage stageid="dee58d98-6a47-4d03-9b5b-c7e6d6bace10" name="handle" type="Data">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <display x="420" y="375" />
+    <datatype>number</datatype>
+    <initialvalue />
+    <alwaysinit />
+  </stage>
+  <stage stageid="de252fd5-91d9-47dd-953b-b780337c82a9" name="MS Excel VBO Extended::Create Worksheet" type="Action">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="255" y="495" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the worksheet should be created. The default of zero indicates the currently active instance." expr="[handle]" />
+      <input type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook in which the sheet should be created - The default empty value indicates the currently active workbook on the specified instance." expr="[Workbook Name]" />
+      <input type="text" name="Worksheet Name" friendlyname="Worksheet Name" narrative="The name of the sheet which should be activated. The default empty text value indicates that the currently active sheet should be, er, activated, making this a no-op." expr="&quot;Gas use&quot;" />
+    </inputs>
+    <onsuccess>804e09f4-b701-4984-8145-faed9babbf0c</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Create Worksheet" />
+  </stage>
+  <stage stageid="804e09f4-b701-4984-8145-faed9babbf0c" name="MS Excel VBO Extended::Write Collection" type="Action">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="255" y="555" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the specified collection should be written. The default of zero indicates the currently active instance." expr="[handle]" />
+      <input type="collection" name="Collection" friendlyname="Collection" narrative="The collection containing the data which should be written to the worksheet." expr="[Value from tableGasReadings]" />
+      <input type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook within which the data should be written. The default empty value indicates the current workbook within the specified instance." expr="[Workbook Name]" />
+      <input type="text" name="Worksheet Name" friendlyname="Worksheet Name" narrative="The name of the worksheet on which the given data should be written. The default empty value indicates the current sheet within the specified workbook." expr="&quot;Gas use&quot;" />
+      <input type="text" name="Cell Reference" friendlyname="Cell Reference" narrative="The reference at which the collection should be written." expr="&quot;A1&quot;" />
+      <input type="flag" name="Include Column Names" friendlyname="Include Column Names" narrative="True to indicate that the column names from the collection should be written out as the first row; False to ignore the column names and just write out the data." expr="False" />
+    </inputs>
+    <onsuccess>63bdcf17-2b87-4dc2-8c8c-a3ab23b7a894</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Write Collection" />
+  </stage>
+  <stage stageid="63bdcf17-2b87-4dc2-8c8c-a3ab23b7a894" name="MS Excel VBO Extended::Create Worksheet" type="Action">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="255" y="615" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the worksheet should be created. The default of zero indicates the currently active instance." expr="[handle]" />
+      <input type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook in which the sheet should be created - The default empty value indicates the currently active workbook on the specified instance." expr="[Workbook Name]" />
+      <input type="text" name="Worksheet Name" friendlyname="Worksheet Name" narrative="The name of the sheet which should be activated. The default empty text value indicates that the currently active sheet should be, er, activated, making this a no-op." expr="&quot;Elec use&quot;" />
+    </inputs>
+    <onsuccess>6b58d0bd-816b-42a3-ae3f-b0c2a0f6a9d3</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Create Worksheet" />
+  </stage>
+  <stage stageid="6b58d0bd-816b-42a3-ae3f-b0c2a0f6a9d3" name="MS Excel VBO Extended::Write Collection" type="Action">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="255" y="675" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the specified collection should be written. The default of zero indicates the currently active instance." expr="[handle]" />
+      <input type="collection" name="Collection" friendlyname="Collection" narrative="The collection containing the data which should be written to the worksheet." expr="[Value from tableElecReadings]" />
+      <input type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook within which the data should be written. The default empty value indicates the current workbook within the specified instance." expr="[Workbook Name]" />
+      <input type="text" name="Worksheet Name" friendlyname="Worksheet Name" narrative="The name of the worksheet on which the given data should be written. The default empty value indicates the current sheet within the specified workbook." expr="&quot;Elec use&quot;" />
+      <input type="text" name="Cell Reference" friendlyname="Cell Reference" narrative="The reference at which the collection should be written." expr="&quot;A1&quot;" />
+      <input type="flag" name="Include Column Names" friendlyname="Include Column Names" narrative="True to indicate that the column names from the collection should be written out as the first row; False to ignore the column names and just write out the data." expr="True" />
+    </inputs>
+    <onsuccess>75d4df0d-3599-40ef-bd0e-fcf5add2a569</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Write Collection" />
+  </stage>
+  <stage stageid="f3d1fdcc-90c3-46bd-b8ff-5562cf15880b" name="MS Excel VBO Extended::Create Workbook" type="Action">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="255" y="435" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the workbook should be created. The default of zero indicates the currently active instance." expr="[handle]" />
+    </inputs>
+    <outputs>
+      <output type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook that Excel has created - this can be changed using the &quot;Save Workbook As&quot; action" stage="Workbook Name" />
+    </outputs>
+    <onsuccess>de252fd5-91d9-47dd-953b-b780337c82a9</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Create Workbook" />
+  </stage>
+  <stage stageid="62beec1e-d1e1-49f0-9dbf-9b92b4798e1d" name="Workbook Name" type="Data">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <display x="420" y="435" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <alwaysinit />
+  </stage>
+  <stage stageid="75d4df0d-3599-40ef-bd0e-fcf5add2a569" name="MS Excel VBO Extended::Save Workbook As" type="Action">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="255" y="735" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the workbook which should be saved resides. The default of zero indicates the currently active instance." expr="[handle]" />
+      <input type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook which should be saved" expr="[Workbook Name]" />
+      <input type="text" name="Filename" friendlyname="Filename" narrative="The full path and filename to which the workbook should be saved." expr="[Save Location] &amp; &quot;use.xlsx&quot;" />
+    </inputs>
+    <outputs>
+      <output type="text" name="New Workbook Name" friendlyname="New Workbook Name" narrative="The new workbook name which Excel will use to identify the workbook within the instance." stage="" />
+    </outputs>
+    <onsuccess>200e80b3-3e74-424e-8221-90aa763b961d</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Save Workbook As" />
+  </stage>
+  <stage stageid="200e80b3-3e74-424e-8221-90aa763b961d" name="MS Excel VBO Extended::Close Instance" type="Action">
+    <subsheetid>58e4f153-a2ab-4b6f-b5c3-376b5fe52a5e</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="255" y="795" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance to be closed. Zero indicates the currently active instance." expr="[handle]" />
+      <input type="flag" name="Save Changes" friendlyname="Save Changes" narrative="True to save the changes to the open workbooks on the instance, False to discard any changes. Default is False." expr="True" />
+    </inputs>
+    <onsuccess>586957ea-955e-42de-a5b9-5d49619ba40d</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Close Instance" />
+  </stage>
+  <stage stageid="13af7dae-e7c4-4d0c-95f4-e225fa79d5c2" name="Save Location" type="Data">
+    <loginhibit />
+    <display x="195" y="30" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">C:\Users\jordan.harvey\Downloads\Simp\</initialvalue>
+    <alwaysinit />
+  </stage>
+  <stage stageid="322f147e-d022-4ac0-80eb-64ab1f685840" name="MS Excel VBO Extended::Create Instance" type="Action">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="270" y="375" />
+    <inputs>
+      <input type="flag" name="Enable Events" friendlyname="Enable Events" narrative="Flag to indicate that events should be enabled / disabled on the attached instance - defaulted to True" expr="True" />
+    </inputs>
+    <outputs>
+      <output type="number" name="handle" friendlyname="handle" narrative="An integer which can be used to identify the created instance in subsequent actions" stage="handle" />
+    </outputs>
+    <onsuccess>ec780c06-d57d-42a7-bd95-2c953d5f2068</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Create Instance" />
+  </stage>
+  <stage stageid="df903c41-fe0d-465e-ba8c-5e8ad2d5119a" name="MS Excel VBO Extended::Create Worksheet" type="Action">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="270" y="495" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the worksheet should be created. The default of zero indicates the currently active instance." expr="[handle]" />
+      <input type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook in which the sheet should be created - The default empty value indicates the currently active workbook on the specified instance." expr="[Workbook Name]" />
+      <input type="text" name="Worksheet Name" friendlyname="Worksheet Name" narrative="The name of the sheet which should be activated. The default empty text value indicates that the currently active sheet should be, er, activated, making this a no-op." expr="&quot;Billing&quot;" />
+    </inputs>
+    <onsuccess>6881618a-e762-40a8-9fb8-cbfbcb0904fe</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Create Worksheet" />
+  </stage>
+  <stage stageid="ec780c06-d57d-42a7-bd95-2c953d5f2068" name="MS Excel VBO Extended::Create Workbook" type="Action">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="270" y="435" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the workbook should be created. The default of zero indicates the currently active instance." expr="[handle]" />
+    </inputs>
+    <outputs>
+      <output type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook that Excel has created - this can be changed using the &quot;Save Workbook As&quot; action" stage="Workbook Name" />
+    </outputs>
+    <onsuccess>df903c41-fe0d-465e-ba8c-5e8ad2d5119a</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Create Workbook" />
+  </stage>
+  <stage stageid="e7882db1-4bba-4042-9603-e8ab87b83369" name="MS Excel VBO Extended::Save Workbook As" type="Action">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="270" y="615" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the workbook which should be saved resides. The default of zero indicates the currently active instance." expr="[handle]" />
+      <input type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook which should be saved" expr="[Workbook Name]" />
+      <input type="text" name="Filename" friendlyname="Filename" narrative="The full path and filename to which the workbook should be saved." expr="[Save Location] &amp; &quot;bill.xlsx&quot;" />
+    </inputs>
+    <outputs>
+      <output type="text" name="New Workbook Name" friendlyname="New Workbook Name" narrative="The new workbook name which Excel will use to identify the workbook within the instance." stage="" />
+    </outputs>
+    <onsuccess>1ea210a6-f3d1-41e3-b47f-874aa4ba1834</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Save Workbook As" />
+  </stage>
+  <stage stageid="1ea210a6-f3d1-41e3-b47f-874aa4ba1834" name="MS Excel VBO Extended::Close Instance" type="Action">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="270" y="675" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance to be closed. Zero indicates the currently active instance." expr="[handle]" />
+      <input type="flag" name="Save Changes" friendlyname="Save Changes" narrative="True to save the changes to the open workbooks on the instance, False to discard any changes. Default is False." expr="True" />
+    </inputs>
+    <onsuccess>49293b57-be24-47cc-9d8a-ad24d9c4815c</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Close Instance" />
+  </stage>
+  <stage stageid="6881618a-e762-40a8-9fb8-cbfbcb0904fe" name="MS Excel VBO Extended::Write Collection" type="Action">
+    <subsheetid>404999d3-b7ed-4591-9028-9043df5a8c72</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="270" y="555" />
+    <inputs>
+      <input type="number" name="handle" friendlyname="handle" narrative="The integer handle identifying the instance on which the specified collection should be written. The default of zero indicates the currently active instance." expr="[handle]" />
+      <input type="collection" name="Collection" friendlyname="Collection" narrative="The collection containing the data which should be written to the worksheet." expr="[Value from tableBills]" />
+      <input type="text" name="Workbook Name" friendlyname="Workbook Name" narrative="The name of the workbook within which the data should be written. The default empty value indicates the current workbook within the specified instance." expr="[Workbook Name]" />
+      <input type="text" name="Worksheet Name" friendlyname="Worksheet Name" narrative="The name of the worksheet on which the given data should be written. The default empty value indicates the current sheet within the specified workbook." expr="&quot;Billing&quot;" />
+      <input type="text" name="Cell Reference" friendlyname="Cell Reference" narrative="The reference at which the collection should be written." expr="&quot;A1&quot;" />
+      <input type="flag" name="Include Column Names" friendlyname="Include Column Names" narrative="True to indicate that the column names from the collection should be written out as the first row; False to ignore the column names and just write out the data." expr="False" />
+    </inputs>
+    <onsuccess>e7882db1-4bba-4042-9603-e8ab87b83369</onsuccess>
+    <resource object="MS Excel VBO Extended" action="Write Collection" />
+  </stage>
+</process>
